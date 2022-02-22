@@ -1,0 +1,1964 @@
+{
+    "code": 0,
+    "floors": [
+        {
+            "bId": "eCustom_flo_299",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "isShowAR": true,
+                "threeDSwitch": false,
+                "videoControl": {
+                    "autoPlay": false,
+                    "masterVideo": {
+                        "duration": 50,
+                        "imageUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/42280600182173754389487617/imageSampleSnapshot/1608971699_91887345.100_5026.jpg",
+                        "playBackFlag": false,
+                        "playUrl": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/42280600182173754389487617/v.f30.mp4?source=1&h265=v.f1022_h265.mp4",
+                        "useCoverPicture": false,
+                        "videoDuration": "00'50\"",
+                        "videoId": "89815481",
+                        "videoShare": {
+                            "des": "我发现了一个精彩的视频，快来看看吧",
+                            "microBlog": "我发现了一个精彩的视频，快来看看吧https://h5.m.jd.com/dev/3UmozpxSyHxMaXRXndHbUhwC4iuN/index.html?skuId=8316196",
+                            "title": "这个小视频不错哦~",
+                            "url": "https://h5.m.jd.com/dev/3UmozpxSyHxMaXRXndHbUhwC4iuN/index.html?skuId=8316196"
+                        }
+                    },
+                    "optimize": true
+                },
+                "arMakeup": {
+                    "icon": "https://m.360buyimg.com/cc/jfs/t30205/42/385648840/15063/7ee87b24/5bf23345N9c9fcc5a.png",
+                    "preLoadUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"module\":\"threedproduct\",\"methodName\":\"preload\",\"des\":\"arvr_public_interface\",\"methodParams\":\"{\\\"sku\\\":\\\"8316196\\\",\\\"modelId\\\":\\\"10001597392950090\\\"}\"}",
+                    "arNew": {
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/69465/24/8447/10601/5d65085dE1c98b655/6f372886fff6c2e7.png"
+                    },
+                    "jumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"arbuy\",\"skuId\":\"8316196\",\"skuName\":\"小天鹅（LittleSwan）水魔方系列 京品家电 10公斤洗烘一体 滚筒洗衣机全自动 智能家电TD100V86WMADY5\",\"from\":\"ProductDetail\",\"modelId\":\"10001597392950090\",\"cid\":\"880\",\"venderId\":\"1000002505\",\"isCanUseDong\":\"true\",\"isCanUseJing\":\"true\",\"isGlobal\":\"false\"}"
+                },
+                "ARType": "6_1000"
+            },
+            "mId": "bpMainImage",
+            "refId": "eMainImage_0000000030",
+            "sortId": 1
+        },
+        {
+            "bId": "eCustom_flo_505",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCjxpUp",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_334",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpPromot",
+            "refId": "ePromot_0000000051",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_257",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {},
+            "mId": "bpYuyueBanner",
+            "refId": "eYuyueBanner_0000000023",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_333",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpSkinBanner",
+            "refId": "eSkinBanner_0000000023",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_508",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpDsj",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_506",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCjxpDown",
+            "sortId": 4
+        },
+        {
+            "bId": "eCustom_flo_229",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "priceIcon": {
+                    "jiangJia": "https://m.360buyimg.com/cc/jfs/t17767/313/1571185437/16553/ad5bc0be/5acdf3deN0078de63.png",
+                    "kanJia": "https://m.360buyimg.com/cc/jfs/t18559/311/1506989738/3700/cea16f48/5acdf410N0435a64a.png"
+                },
+                "priceInfo": {
+                    "mprice": {
+                        "display": true,
+                        "name": "参考价：",
+                        "value": "6999.00"
+                    },
+                    "isCut": false,
+                    "discount": {
+                        "display": true
+                    },
+                    "jprice": {
+                        "display": true,
+                        "name": "京东价：",
+                        "value": "4329.00"
+                    }
+                },
+                "showAttentionPriceFloor": true
+            },
+            "mId": "bpJPrice",
+            "refId": "eJPrice_0000000098",
+            "sortId": 5
+        },
+        {
+            "bId": "eCustom_flo_644",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "jingxiangUtilsInfo": {
+                    "promoInfoHead": "#FF404F,#FA2C19",
+                    "busiId": "200233089187_22",
+                    "price": "50",
+                    "promoBanner": "https://m.360buyimg.com/cc/jfs/t1/170330/36/18636/111680/60780511E18e2e423/71d5248fd930902a.png",
+                    "promoInfoPic": "https://m.360buyimg.com/cc/jfs/t1/172486/5/6069/7669/60811c02Ee30aeccb/443ae0157cf0c516.png",
+                    "name": "首购礼金",
+                    "toastText": "下单即可使用礼金，限时有效~",
+                    "type": "1",
+                    "value": "店铺新客限时优惠，限享一次"
+                }
+            },
+            "mId": "bpGrowth",
+            "sortId": 8
+        },
+        {
+            "bId": "eCustom_flo_337",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpGroup",
+            "refId": "eGroup_0000000006",
+            "sortId": 8
+        },
+        {
+            "bId": "eCustom_flo_332",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpSeckill",
+            "refId": "eSeckill_0000000100",
+            "sortId": 8
+        },
+        {
+            "bId": "eCustom_flo_511",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "icodeImgAndTextList": [
+                    {
+                        "iconDesc": "无忧生活，智在小家",
+                        "iconImg": "https://m.360buyimg.com/cc/jfs/t1/177051/14/3023/5361/6096659eE77fa7653/b86c3b7d1e419a41.png",
+                        "type": "jyzn"
+                    }
+                ]
+            },
+            "mId": "JDguojibrand",
+            "sortId": 9
+        },
+        {
+            "bId": "eCustom_flo_300",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "showAttention": true,
+                "title2ndIconType": 0,
+                "imgToWareName": [
+                    "tab_054"
+                ]
+            },
+            "mId": "bpName",
+            "refId": "eName_0000000015",
+            "sortId": 10
+        },
+        {
+            "bId": "eCustom_flo_452",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "brightPoints": "• 水魔方护色护形  • 纳米银离子除菌  • 纤维蒸汽烘干"
+            },
+            "mId": "bpBrightpoint",
+            "sortId": 11
+        },
+        {
+            "bId": "eCustom_flo_199",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "ad": {
+                    "adLink": "https://coupon.m.jd.com/coupons/show.action?key=c0mdcbs1oba0467ebe2bdb5f19967b53&roleId=66520704&to=m.jd.com",
+                    "adLinkContent": "查看>",
+                    "adword": "【下单享每满200减30京贴】今日到手不高于3699\n【购机赠京东Plus会员年卡！享电机延保至10年服务】\n【咨询客服领优惠！整机三年包修&白条3期免息】戳",
+                    "color": "#f23030",
+                    "hasFold": true,
+                    "newALContent": true,
+                    "textColor": "#8C8C8C"
+                }
+            },
+            "mId": "bpAdword",
+            "refId": "eAdword_0000000028",
+            "sortId": 13
+        },
+        {
+            "bId": "eCustom_flo_335",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpBlank",
+            "refId": "eBlank_0000000102",
+            "sortId": 14
+        },
+        {
+            "bId": "eCustom_flo_347",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpInstallment",
+            "refId": "eInstallment_0000000075",
+            "sortId": 20
+        },
+        {
+            "bId": "eCustom_flo_259",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {},
+            "mId": "bpYuyue",
+            "refId": "eYuyue_0000000041",
+            "sortId": 21
+        },
+        {
+            "bId": "eCustom_flo_329",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCardFlow",
+            "refId": "eCardFlow_0000000053",
+            "sortId": 24
+        },
+        {
+            "bId": "eCustom_flo_330",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCertify",
+            "refId": "eCertify_0000000004",
+            "sortId": 30
+        },
+        {
+            "bId": "eCustom_flo_462",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "preferentialGuide": {
+                    "vipJumpUrl": "https://shopmember.m.jd.com/shopcard/?venderId=1000002505&shopId=1000002505&venderType=1&channel=999&returnUrl=",
+                    "couponInfo": [],
+                    "vipJumpType": 2,
+                    "iconCode": "detail_var_045",
+                    "promotion": {
+                        "activity": [
+                            {
+                                "showStyle": 1,
+                                "value": "下单立减50元,店铺新客限时优惠，限享一次",
+                                "text": "首购礼金",
+                                "proSortNum": 0,
+                                "proId": "200233089187",
+                                "denomination": "50",
+                                "promoId": ""
+                            },
+                            {
+                                "value": "购满2类，总价打9.7折；购满3类，总价打9.5折；每类限购5件",
+                                "text": "跨品类满折",
+                                "skuId": "",
+                                "proSortNum": 60,
+                                "link": "https://allbuy.m.jd.com/#/?suitId=200526001&skuId=8316196",
+                                "proId": "200225680372",
+                                "proChannel": 8,
+                                "promoId": ""
+                            },
+                            {
+                                "value": "每满200元，可减30元现金",
+                                "text": "满减",
+                                "skuId": "",
+                                "proSortNum": 40,
+                                "link": "",
+                                "proId": "200235575798",
+                                "promoId": "200235575798"
+                            },
+                            {
+                                "value": "购买1件可优惠换购热销商品",
+                                "text": "换购",
+                                "proSortNum": 120,
+                                "proId": "200218142574",
+                                "proChannel": 3,
+                                "promoId": "200218142574"
+                            },
+                            {
+                                "value": "PLUS专享10倍返豆，订单完成后最高可返2164京豆",
+                                "text": "返京豆",
+                                "proSortNum": "-10",
+                                "valueList": []
+                            }
+                        ],
+                        "activityTypes": [
+                            "10",
+                            "15",
+                            "15",
+                            "60",
+                            "84"
+                        ],
+                        "attach": [],
+                        "canReturnHaggleInfo": false,
+                        "gift": [
+                            {
+                                "proId": "200227801465",
+                                "num": "1",
+                                "link": "",
+                                "text": "赠品",
+                                "value": "京东PLUS会员 京典年卡 【不支持退换】主品收货后 兑换码通过赠品订单详情提取 收到赠品建议在180天内兑换（赠完即止）",
+                                "skuId": "100005354393"
+                            }
+                        ],
+                        "isBargain": false,
+                        "isTwoLine": true,
+                        "limitBuyInfo": {
+                            "noSaleFlag": "0",
+                            "limitNum": "0",
+                            "strategyFlag": "0",
+                            "isPlusLimit": "0",
+                            "limitAreaFlag": "1",
+                            "limitPeopleFlag": "1"
+                        },
+                        "normalMark": "tab_var_071",
+                        "plusDiscountMap": {},
+                        "plusMark": "tab_var_124",
+                        "prompt": "",
+                        "screenLiPurMap": {},
+                        "tip": "",
+                        "tips": []
+                    },
+                    "hasFinanceCoupon": false
+                }
+            },
+            "mId": "bpAggrePromo",
+            "sortId": 51
+        },
+        {
+            "bId": "eCustom_flo_442",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "white_line_L"
+            },
+            "data": {
+                "actions": {
+                    "bigSale": {
+                        "bizKey": "gjhsNew",
+                        "desc": "精准估价、免费拆机/搬运、快速到账",
+                        "descBounce": "精准估价、免费拆机/搬运、快速到账",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/17024/4/15356/2143/5caeb5efEf90f64a9/f4205d7302e4433c.png",
+                        "jumpType": 1,
+                        "mustLogin": false,
+                        "truthBigSale": false,
+                        "url": "https://prodev.m.jd.com/mall/active/SikdHKVshzBdxVse52epjzRgfpG/index.html?source=3&skuId=8316196&cid1=737&cid2=794&cid3=880&province=15&city=1213&country=3038&town=0&addressId=&longitude=0.0&latitude=0.0&hx=0&IsSXQJ=0&IsYZS=0&menu=0&commodityType=2&activityType=1&localProductParam=LocalProductParam(brand=google, model=Pixel3)"
+                    },
+                    "bizActs": [
+                        {
+                            "bizKey": "shopactivity",
+                            "desc": "店铺秒杀活动，限时抢！",
+                            "icon": "https://img10.360buyimg.com/imgzone/jfs/t1/150379/26/9263/4485/5fc5fd0aEcf116246/9eba0735eaeb4de3.png",
+                            "jumpType": 2,
+                            "mustLogin": false,
+                            "truthBigSale": false,
+                            "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"venderId\":\"1000002505\",\"jumpTab\":\"activity\",\"sourceInfo\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"ActiveFloor\"}}"
+                        },
+                        {
+                            "bizKey": "expansion",
+                            "desc": "充值享膨胀，充越多购物省越多",
+                            "icon": "https://img11.360buyimg.com/imagetools/jfs/t1/219034/35/312/2784/6167e878E89e0574b/9edb64fa756daa05.png",
+                            "jumpType": 1,
+                            "mustLogin": false,
+                            "truthBigSale": false,
+                            "url": "https://jpay.jd.com/allowance/index?activityId=0072201090001478310"
+                        }
+                    ]
+                }
+            },
+            "mId": "bpActivity",
+            "sortId": 55
+        },
+        {
+            "bId": "eCustom_flo_453",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "authorityRankInfo": {
+                    "arrowPic": "https://m.360buyimg.com/rank/jfs/t1/150553/18/8825/500/5fc73568E201b7eb9/ff5562da1388602f.png",
+                    "floorBgImage": "https://m.360buyimg.com/rank/jfs/t1/137017/16/18232/13551/5fc73563E45a80b1d/e1492c57e773ec56.png",
+                    "floorPosition": "1",
+                    "fontColor": "#262626",
+                    "icon": "https://m.360buyimg.com/rank/jfs/t1/136248/38/18023/4527/5fc7355dEb30639b7/212447ae34dc9d99.png",
+                    "jumpType": "OPENAPP",
+                    "jumpUrl": "openapp.jdmobile://virtual?params={\"ishidden\":true,\"des\":\"jdreactcommon\",\"transparentenable\":true,\"appname\":\"JDReactRankingList\",\"param\":{\"detailPageType\":\"5\",\"rankType\":\"10\",\"contentId\":\"34405\",\"fromSkuId\":\"8316196\"},\"fromName\":\"Productdetail\",\"modulename\":\"JDReactRankingList\",\"category\":\"jump\"}",
+                    "rankId": "34405",
+                    "rankName": "3000元以上洗衣机热卖榜第15名",
+                    "type": "2"
+                }
+            },
+            "mId": "bpauthority",
+            "sortId": 63
+        },
+        {
+            "bId": "eCustom_flo_309",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "selected": ""
+            },
+            "mId": "bpChoice",
+            "refId": "eChoice_0000000018",
+            "sortId": 64
+        },
+        {
+            "bId": "eCustom_flo_253",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "white_line_L"
+            },
+            "data": {
+                "serviceType": 0,
+                "imgForAddr": "https://m.360buyimg.com/babel/jfs/t1/130756/9/11972/4289/5f8674d3Eabfebbef/bb964241bd789a72.png",
+                "defaultAddr": {
+                    "cityId": "1213",
+                    "cityName": "杭州市",
+                    "countyId": "3038",
+                    "countyName": "滨江区",
+                    "provinceId": "15",
+                    "provinceName": "浙江",
+                    "townId": "59931",
+                    "townName": "西兴街道"
+                },
+                "stock": "现货,21:00前下单，预计(02月20日)送达",
+                "jdService": true,
+                "basic": {
+                    "iconList": [
+                        {
+                            "iconType": "right",
+                            "iconValue": "detail_005",
+                            "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/115738/37/12143/1066/5f0c7d11E4faee520/de3879572e2b2014.png",
+                            "jichu": false,
+                            "show": true,
+                            "sortId": 7,
+                            "text": "送货上门",
+                            "tip": "京东快递为您提供送货上门服务"
+                        },
+                        {
+                            "iconType": "right",
+                            "iconValue": "detail_005",
+                            "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/116316/15/7402/1031/5ec22ca4E713f857c/dd49784b20933cf5.png",
+                            "jichu": false,
+                            "show": true,
+                            "sortId": 7,
+                            "text": "预约送货",
+                            "tip": "京东物流为该商品提供预约送货服务"
+                        },
+                        {
+                            "iconType": "right",
+                            "iconValue": "detail_005",
+                            "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/118789/35/7236/1045/5ec22c7dEb1857fd5/d20114dca91e1730.png",
+                            "jichu": false,
+                            "show": true,
+                            "sortId": 7,
+                            "text": "本地仓",
+                            "tip": "从您所在城市的京东仓库发货"
+                        },
+                        {
+                            "iconType": "right",
+                            "iconValue": "detail_005",
+                            "imageUrl": "https://img30.360buyimg.com/mobilecms/g13/M04/10/11/rBEhVFLL0UwIAAAAAAAEeT_oUHcAAHshQAF9h4AAASR171.jpg",
+                            "jichu": false,
+                            "show": true,
+                            "sortId": 7,
+                            "text": "货到付款",
+                            "tip": "支持送货上门后再收款，支持现金、POS机刷卡等方式"
+                        }
+                    ],
+                    "title": "服务说明"
+                },
+                "jdServiceIcon": "送货上门 • 预约送货 • 本地仓 • 货到付款",
+                "imgType": 2
+            },
+            "mId": "bpAddr",
+            "refId": "eAddr_0000000008",
+            "sortId": 69
+        },
+        {
+            "bId": "eCustom_flo_231",
+            "cf": {
+                "bgc": "#fcfcfc",
+                "spl": "empty"
+            },
+            "data": {
+                "servIconRelation": [
+                    {
+                        "iconType": "exclamation",
+                        "iconValue": "detail_006"
+                    },
+                    {
+                        "iconType": "right",
+                        "iconValue": "detail_005"
+                    }
+                ],
+                "serviceInfo": {
+                    "basic": {
+                        "iconList": [
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t1918/274/1086575987/1970/bc766f2d/5680f4b3N24b48659.png",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 7,
+                                "text": "7天无理由退货",
+                                "tip": "支持7天无理由退货"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://img30.360buyimg.com/mobilecms/g15/M0A/10/0C/rBEhWFMxH-oIAAAAAAAEs-McyP4AAKp8AP_4HYAAATL229.jpg",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 7,
+                                "text": "99元免基础运费",
+                                "tip": "所选地址自营订单满99元免基础运费。"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/67681/40/661/910/5cee3cb6Ebdf222e5/da9d941c1357b78f.png",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 7,
+                                "text": "30-30-180",
+                                "tip": "30天价保；30天质量问题包退；180天质量问题包换"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/74072/29/11006/1069/5d8862ccE11974e3f/1bbabf35f37add18.png",
+                                "jichu": false,
+                                "jumpUrl": "https://pro.m.jd.com/mall/active/356VrsBfuRjtoLmSEREnyEjwAz5c/index.html",
+                                "show": true,
+                                "sortId": 7,
+                                "text": "安心服务",
+                                "tip": "配送、安装类服务疫情期间执行防护、消杀标准，为您提供安心送装服务，保障商品安全使用"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/babel/jfs/t1/51723/11/11475/856/5d886164E6e70350d/eecfeed37324649c.png",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 7,
+                                "text": "开箱验机",
+                                "tip": "在收货签收前可以打开包装检验货物的完好情况。"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t2176/234/1856411458/2044/91ae040b/5680f585N70da96a6.png",
+                                "jichu": false,
+                                "serviceIconType": 0,
+                                "show": true,
+                                "sortId": 6,
+                                "text": "京东发货&售后",
+                                "tip": "由京东发货并提供售后服务"
+                            }
+                        ],
+                        "title": "服务说明"
+                    },
+                    "littleSkin": {
+                        "iconType": "right",
+                        "imageUrl": "https://m.360buyimg.com/cc/jfs/t12586/14/1167782550/4151/6005d546/5a1bb2a7Ne5eb1276.png",
+                        "jichu": false,
+                        "jumpUrl": "https://pro.m.jd.com/mall/active/3vXt6qcswxgV5y8F44L29ACWHH58/index.html",
+                        "show": true,
+                        "sortId": 0,
+                        "text": "家电服务",
+                        "tip": "30天价保，30/180天退换无忧，尽享一站式服务"
+                    }
+                },
+                "isIcon": true
+            },
+            "mId": "bpServe",
+            "refId": "eServe_0000000038",
+            "sortId": 75
+        },
+        {
+            "bId": "eCustom_flo_302",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {},
+            "mId": "bpEvaluate",
+            "refId": "eEvaluate_0000000007",
+            "sortId": 83
+        },
+        {
+            "bId": "eCustom_flo_517",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "line"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpAsk",
+            "refId": "eAsk_0000000044",
+            "sortId": 84
+        },
+        {
+            "bId": "eCustom_flo_465",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "pgcInfo": {
+                    "flagVideoOrArticle": "1",
+                    "moreJumpUrl": "openApp.jdMobile://virtual?params={\"floorId\":3,\"des\":\"productRecommendVideoList\",\"releaseType\":1,\"execParams\":{\"needAuthorMsg\":true,\"needPv\":true,\"needAdd\":true},\"category\":\"jump\",\"skuId\":\"8316196\",\"isPrivateShow\":true}",
+                    "title": "好物测评",
+                    "videoList": [
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/123229/23/21367/167481/620b137cE758708e3/e04992dff058d6b4.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "3人看过",
+                            "author": "晨辉优选",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3430616262373361623531346631363338373736323532373238_big.jpg",
+                            "materialId": "300862327",
+                            "paperTitle": "智慧洗涤，护衣护色护型，小天鹅水魔方洗衣机！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"300862327\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/222435/22/10449/525253/62062d8fE3d9ca8b7/bc13bb2172ba92c9.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "9人看过",
+                            "author": "热门导购",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/b5e7c6f7b5bcb9ba31363338353139393739333232_big.jpg",
+                            "materialId": "300447369",
+                            "paperTitle": "居家宝藏好物：小天鹅水魔方滚筒洗衣机，洗衣更护衣！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"300447369\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/209527/21/16597/490202/61ef9402E06106433/ee2ac047f632d320.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "34人看过",
+                            "author": "小马家电指南",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/bfc9b6afd0a1c2ed31363338353935393631313338_big.jpg",
+                            "materialId": "299008475",
+                            "paperTitle": "洗衣机也有洗烘一体功能了，快把小天鹅全自动洗衣机带回家",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"299008475\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/203527/10/5518/228455/61387384E92521a1c/1060ff7f14b324de.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1.1万人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "272362854",
+                            "paperTitle": "小天鹅智能冷水洗，好用的很！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"272362854\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/83438/14/16523/212639/613875e3E705f0506/20078cb61540b34f.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "3.4万人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "272363890",
+                            "paperTitle": "智能冷水洗，就选小天鹅！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"272363890\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/155407/9/15789/885686/60080721E1ef61adc/094fe2f6f0212150.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "6973人看过",
+                            "author": "放价吧尊小道",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/b4f3c1e4c5aecec4c7e031363338353331303530323330_big.jpg",
+                            "materialId": "244206425",
+                            "paperTitle": "即洗即烘，纵享干爽衣物",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"244206425\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/137658/1/24952/216831/61b964f6E0377e869/81b4e8711e0f5039.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "5862人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "292290692",
+                            "paperTitle": "有了它，从此清净洗衣，给宝宝一个好睡眠！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292290692\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/202413/19/18463/223275/61b966c1E150b6284/204ebe78644dba8b.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "5942人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "292293824",
+                            "paperTitle": "小天鹅水魔方洗烘一体机，让您从此逛街洗衣两不误！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292293824\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/217406/21/8091/219746/61bbffe8Ed52cc943/9bb7ecd132266cdf.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "6262人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "292792217",
+                            "paperTitle": "有了这台小天鹅水魔方洗烘一体机，从此穿衣干爽自由出行！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292792217\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/150676/5/15323/1027478/60080866E2e4432c3/efef46cb3dbe697f.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "7732人看过",
+                            "author": "放价吧尊小道",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/b4f3c1e4c5aecec4c7e031363338353331303530323330_big.jpg",
+                            "materialId": "244205751",
+                            "paperTitle": "衣服变形怎么办，小天鹅洗衣机帮你",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"244205751\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/220844/36/3462/258941/6187970eEf2f78f34/7fc05c44acc85c15.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "159人看过",
+                            "author": "兔子牙生活号",
+                            "style": "2",
+                            "authorPic": "https://m.360buyimg.com/ceco/jfs/t1/171779/34/23904/4611/61b97f42E0ae9a644/be7a38dae197146a.jpg",
+                            "materialId": "284520843",
+                            "paperTitle": "这些衣服，还是用智能冷水洗吧",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"2\",\"id\":\"284520843\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 0
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/200918/17/2277/197302/611c8b05Ecfa6241f/ec19705b4586ec7a.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "266人看过",
+                            "author": "jd_jrKTaWPOgRMh",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f6a724b546157504f67524d6831363430303136343433393433_big.jpg",
+                            "materialId": "269061494",
+                            "paperTitle": "一招解决衣服变形的问题",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"269061494\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/164124/36/21660/219840/61b981fcE8424ac18/8a6056baa0099549.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "6060人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "292319292",
+                            "paperTitle": "小天鹅水魔方洗烘一体机，给您的宝宝最贴心的洗涤保护！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292319292_267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292319292\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/180430/30/10865/254797/60d2fb68E116ed9c2/91d8dbe63875b196.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "355人看过",
+                            "author": "幸运女神汇购物",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/d0d2d4cbc5aec9f1bbe3b9baceef31363339373239323538313739_big.jpg",
+                            "materialId": "267672275",
+                            "paperTitle": "智能洗衣机不仅能洗干净衣服，还能呵护皮肤健康",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"267672275_292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"267672275\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/204063/2/18801/218840/61b9634dE73d0ddb1/c8c42e494d20c507.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "6050人看过",
+                            "author": "小天鹅洗衣机京东自营旗舰店",
+                            "style": "11",
+                            "authorPic": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                            "materialId": "292288663",
+                            "paperTitle": "有了它，漂亮衣服再也不会被洗坏啦！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292288663_277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292288663\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/89596/35/18466/322655/615d0eb2Edc3c2a2b/78d36f4fb41891e5.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "104人看过",
+                            "author": "囤货种草丸子菌",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f75616b4c546173416672716831363338393437333630393439_big.jpg",
+                            "materialId": "277154648",
+                            "paperTitle": "认真呵护每一件衣物",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"277154648_277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"277154648\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/171529/23/23245/162328/615c6858Ecf2711f6/ec9cfefa6f9f3a20.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "86人看过",
+                            "author": "好物推荐官牛牛",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/cdf5c5c6d0a1b7cad6ed31363339373332303634383334_big.jpg",
+                            "materialId": "277113187",
+                            "paperTitle": "小天鹅水魔方系列变频洗衣机",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"277113187_284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"277113187\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/213860/6/3655/210067/6188f2b2E125428c6/2268c14d3b21fa2c.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "97人看过",
+                            "author": "ACE小成推荐官",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f546f554f687363764b48626631363430363230383438343438_big.jpg",
+                            "materialId": "284682672",
+                            "paperTitle": "小天鹅水魔方系列，洗烘一体",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"284682672_277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"284682672\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/206589/23/3836/159160/615d4735E3dd160ed/a9f6201335642083.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "34人看过",
+                            "author": "囤货种草丸子菌",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f75616b4c546173416672716831363338393437333630393439_big.jpg",
+                            "materialId": "277202509",
+                            "paperTitle": "洗衣机门圈有细菌，用它",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"277202509_277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"277202509\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/158543/18/22290/346340/615d0e68Ed26b7ff0/af089e8a0c9b7761.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "28人看过",
+                            "author": "乐乐荐好物",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/d7dfb2bbbfaab5c4bfecc0d6313731363338383530353538333530_big.jpg",
+                            "materialId": "277155811",
+                            "paperTitle": "精细到位，认真呵护每一件衣物",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"277155811_300862327_300447369_299008475_272362854_272363890_244206425_292290692_292293824_292792217_244205751_284520843_269061494_292319292_267672275_292288663_277154648_277113187_284682672_277202509\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"277155811\",\"category\":\"jump\",\"skuId\":\"8316196\"}",
+                            "videoStyle": 1
+                        }
+                    ],
+                    "videoNumber": 20
+                }
+            },
+            "mId": "bpPGC",
+            "sortId": 85
+        },
+        {
+            "bId": "eCustom_flo_239",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "darkModel": false,
+                "eventId": "Productdetail",
+                "tenthRevision": false,
+                "bizList": [
+                    {
+                        "bizKey": "jiadianchengtaogou",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/124393/20/3318/1343/5ecfaf71Ea27ffc48/733a090aa3b3eed0.png",
+                        "title": "家电成套购",
+                        "type": 1,
+                        "url": "https://jdtzg.m.jd.com/",
+                        "mustLogin": false,
+                        "desc": "多买多优惠"
+                    }
+                ],
+                "slide": {
+                    "slideSelect": "#F0250F",
+                    "slideColor": "#e3e5e9"
+                }
+            },
+            "mId": "bpBusSupport",
+            "refId": "eBusSupport_0000000019",
+            "sortId": 86
+        },
+        {
+            "bId": "eCustom_flo_331",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "track": {
+                    "floorId": "flo_331",
+                    "shopId": "",
+                    "skuId": ""
+                },
+                "bgc": "#ffffff"
+            },
+            "mId": "bpShop",
+            "refId": "eShop_0000000012",
+            "sortId": 88
+        },
+        {
+            "bId": "bpParts_flo_295",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "jumpType": 1,
+                "text3C": "#000000",
+                "text1C": "#2E2D2D",
+                "text3Bgc": "#F9F9F9",
+                "text2C": "#2E2D2D",
+                "text1B": true,
+                "buried": "Productdetail",
+                "imgInfo": [
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/115645/19/9172/57426/5ed88c00E28beca53/a488e515b680b74b.png",
+                        "imgText": "洗衣机底座",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=617"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/116174/19/16930/8974/5f520122E3fec9b46/080a895508be0560.jpg",
+                        "imgText": "洗衣机进水管",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=859"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/134884/8/9106/13732/5f52000eEed3d8796/31a9205757c3b24b.jpg",
+                        "imgText": "洗衣机排水管",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=858"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/122803/32/4102/67917/5ed88c85E139b4d46/f34564365030f99d.png",
+                        "imgText": "洗衣机罩",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=618"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t17515/37/1819051316/13326/159175cb/5ad87779N6ef4f2d0.jpg",
+                        "imgText": "三通/水龙头",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=621"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t16648/111/1781061524/43937/52c20dbc/5ad8774dN89eb8755.jpg",
+                        "imgText": "洗衣机清洁",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=620"
+                    }
+                ],
+                "jumpUrl": "https://3c-peijian.jd.com/index?cid=880&sku=8316196&source=itemDetail&accyCategoryId=-99999",
+                "tailIcon": "https://m.360buyimg.com/cc/jfs/t20419/242/1733633141/407/d3fcd52b/5b31f170Neb3e95e0.png",
+                "text3": "",
+                "text3S": 24,
+                "text1": "热门配件",
+                "text1S": 26,
+                "text2": "查看全部",
+                "text2S": 24,
+                "tailIconH": 20,
+                "viewMore": true,
+                "bgc": "#ffffff"
+            },
+            "mId": "bpParts",
+            "refId": "eAccyCenter_0000000056",
+            "sortId": 90
+        },
+        {
+            "bId": "eCustom_flo_339",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "recommend": ""
+            },
+            "mId": "bpRecommend",
+            "refId": "eRecommend_0000000034",
+            "sortId": 92
+        },
+        {
+            "bId": "eCustom_flo_307",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpDetails",
+            "refId": "eDetails_0000000000",
+            "sortId": 94
+        },
+        {
+            "bId": "eCustom_flo_201",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "templateType": "normal",
+                "topOn": false,
+                "colorSizeInfo": {
+                    "colorSize": [
+                        {
+                            "buttons": [
+                                {
+                                    "no": "1",
+                                    "skuList": [
+                                        "100013735099"
+                                    ],
+                                    "text": "【彩屏超微净泡套装】节能双变频"
+                                },
+                                {
+                                    "no": "2",
+                                    "skuList": [
+                                        "100018836598"
+                                    ],
+                                    "text": "【超微净泡套装】免熨烫热泵柔烘"
+                                },
+                                {
+                                    "no": "3",
+                                    "skuList": [
+                                        "100015526216"
+                                    ],
+                                    "text": "【水魔方套装】精洗柔烘行业TOP1"
+                                },
+                                {
+                                    "no": "4",
+                                    "skuList": [
+                                        "100013749889"
+                                    ],
+                                    "text": "【彩屏超微净泡】双智投芳香洗烘"
+                                },
+                                {
+                                    "no": "5",
+                                    "skuList": [
+                                        "100025762522"
+                                    ],
+                                    "text": "【彩屏超微净泡】双智投除菌滚筒"
+                                },
+                                {
+                                    "no": "6",
+                                    "skuList": [
+                                        "100015836890"
+                                    ],
+                                    "text": "【超微净泡】纳米除菌微蒸汽洗烘"
+                                },
+                                {
+                                    "no": "7",
+                                    "skuList": [
+                                        "100015758064"
+                                    ],
+                                    "text": "【超微净泡】纳米除菌冷水洗滚筒"
+                                },
+                                {
+                                    "no": "8",
+                                    "skuList": [
+                                        "8316196"
+                                    ],
+                                    "text": "【水魔方系列】护色护形王牌洗烘"
+                                },
+                                {
+                                    "no": "9",
+                                    "skuList": [
+                                        "7575026"
+                                    ],
+                                    "text": "【水魔方系列】护色护形王牌滚筒"
+                                },
+                                {
+                                    "no": "10",
+                                    "skuList": [
+                                        "100012380331"
+                                    ],
+                                    "text": "【彩屏水魔方】智投巡航除菌洗烘"
+                                }
+                            ],
+                            "title": "系列"
+                        }
+                    ],
+                    "colorSizeTips": "#与其他已选项无法组成可售商品，请重选"
+                },
+                "abBuriedExpLabels": {},
+                "wareEyeSight": {
+                    "hitStatus": 1,
+                    "isHaveEyeSight": false
+                },
+                "isOpenCar": true,
+                "promotionPoint": {
+                    "promotionSkinPoint": "0",
+                    "promotionTagPoint": "0"
+                },
+                "supportSale": false,
+                "abTest800": true,
+                "jdSerPlusInfo": {
+                    "jdSerPlusUrl": "https://m-weixiu.jd.com/spbuy/getServicePlusInfo?pid=8316196,15,1213,3038,0,",
+                    "jdSerPlusList": [
+                        {
+                            "products": [
+                                {
+                                    "discount": "自营好服务",
+                                    "goldSafe": false,
+                                    "itemIndex": 1,
+                                    "serviceSku": "100019210484",
+                                    "serviceSkuAdWord": "买一点赠一点，方便快捷，现场出结果",
+                                    "serviceSkuPrice": "199.00",
+                                    "serviceSkuShortName": "甲醛快检"
+                                },
+                                {
+                                    "goldSafe": false,
+                                    "itemIndex": 4,
+                                    "serviceSku": "100031999428",
+                                    "serviceSkuAdWord": "",
+                                    "serviceSkuPrice": "30.00",
+                                    "serviceSkuShortName": "延长保修1年"
+                                }
+                            ],
+                            "scIconUrl": "https://img30.360buyimg.com/test/jfs/t1/94502/32/12761/475/5e4fe3b8Ec737b6c1/c2ae7077bd51ee77.png",
+                            "scId": 259,
+                            "scName": "特色服务",
+                            "scOrder": 2
+                        },
+                        {
+                            "products": [
+                                {
+                                    "discount": "除菌除尘",
+                                    "goldSafe": false,
+                                    "itemIndex": 1,
+                                    "serviceSku": "7429483",
+                                    "serviceSkuAdWord": "",
+                                    "serviceSkuPrice": "79.00",
+                                    "serviceSkuShortName": "洗衣机免拆洗"
+                                },
+                                {
+                                    "discount": "除菌除尘",
+                                    "goldSafe": false,
+                                    "itemIndex": 2,
+                                    "serviceSku": "7130074",
+                                    "serviceSkuAdWord": "【消灭你看不到的“家庭病原体”】3月31日前下单，赠送高温蒸汽消毒杀菌服务！上门时间以您为准，有效期延长至60天！随时可预约。",
+                                    "serviceSkuPrice": "84.00",
+                                    "serviceSkuShortName": "空调挂机清洗"
+                                },
+                                {
+                                    "discount": "除油除垢",
+                                    "goldSafe": false,
+                                    "itemIndex": 3,
+                                    "serviceSku": "7429035",
+                                    "serviceSkuAdWord": "",
+                                    "serviceSkuPrice": "149.00",
+                                    "serviceSkuShortName": "油烟机全拆洗"
+                                },
+                                {
+                                    "discount": "除菌除尘",
+                                    "goldSafe": false,
+                                    "itemIndex": 5,
+                                    "serviceSku": "7429029",
+                                    "serviceSkuAdWord": "【消灭你看不到的“家庭病原体”】3月31日前下单，赠送高温蒸汽消毒杀菌服务！上门时间以您为准，有效期延长至60天！随时可预约。",
+                                    "serviceSkuPrice": "119.00",
+                                    "serviceSkuShortName": "冰箱清洗"
+                                }
+                            ],
+                            "scIconUrl": "https://img30.360buyimg.com/test/jfs/t19843/174/46495005/1984/7b7f307e/5ae2a3ccN9f6d5bff.png",
+                            "scId": 258,
+                            "scName": "家电清洗",
+                            "scOrder": 3
+                        }
+                    ],
+                    "jdSerPlusTitle": "京东服务+",
+                    "type": "2"
+                },
+                "yuyueInfo": {
+                    "autoAddCart": "0",
+                    "buttonLeftText": "知道啦",
+                    "buttonRightText": "分享给小伙伴",
+                    "buyEndDate": 1645178400000,
+                    "buyEndTime": "26378",
+                    "buyStartTime": "-38422",
+                    "buyTime": "02.18 00:00 至 18:00",
+                    "buyTimeLabel": "抢购时间",
+                    "hidePrice": "",
+                    "hideText": "",
+                    "isYuYue": true,
+                    "isbuyTime": true,
+                    "loginText": "抱歉，此商品为预约抢购商品！\n若您已经预约，请登录获取购买资格~\n",
+                    "mad": false,
+                    "openYuYueFlag": true,
+                    "pinSkuYuYue": true,
+                    "plusType": 0,
+                    "showDraw": false,
+                    "showPromoPrice": "",
+                    "startTime": 1645113600,
+                    "type": "4",
+                    "yuYue": true,
+                    "yuYueEndTime": "-38423",
+                    "yuYueStartTime": "-174039",
+                    "yuyueFloorAb": 1,
+                    "yuyueNum": 6140,
+                    "yuyueRuleText": [
+                        "1.部分商品预约成功后才有抢购资格，预约成功后，请关注抢购时间及时抢购，货源有限，先抢先得！",
+                        "2.部分商品在预约期间抢购时间未定，我们会在商品开抢前通过Push通知提醒您，请在设置中选择允许通知，以免错过抢购时间。",
+                        "3.对于预约成功享优惠的商品，抢购开始后，点击\"立即抢购\"将商品加入购物车，可在购物车查看优惠，若抢购时间结束，优惠自动失效。",
+                        "4.查看预约商品请至\"京东APP\"-\"我的\"-\"我的预约\"进行查看。",
+                        "5.如果提供赠品，赠品赠送顺序按照预约商品购买成功时间来计算，而不是预约成功时间。",
+                        "6.如您对活动有任何疑问，请联系客服咨询。"
+                    ],
+                    "yuyueShowCode": "0",
+                    "yuyueState": "抢购中",
+                    "yuyueText": "货源有限，先抢先得！",
+                    "yuyueType": "4"
+                },
+                "isOpenNode": true,
+                "rankName": "3000元以上洗衣机热卖榜第15名",
+                "property": {
+                    "isJzfp": false,
+                    "newReceiveCoupon": true,
+                    "suitABTest": 1,
+                    "buyMaxNum": 200,
+                    "isJnbtNewText": false,
+                    "plus20Flag": false,
+                    "isOverseaPurchase": "0",
+                    "easyBuy": false,
+                    "isFxyl": false,
+                    "isRegisterUser": false,
+                    "isFlimPrint": "",
+                    "isShowShopNameB": false,
+                    "dpgRevisionFlag": true,
+                    "fromType": 0,
+                    "showEmptyPrice": false,
+                    "threeSuperFlag": false,
+                    "noStockOrder": false,
+                    "virtualCardUrl": "https://gamerecg.m.jd.com?skuId=8316196&chargeType=880&skuName=小天鹅（LittleSwan）水魔方系列 京品家电 10公斤洗烘一体 滚筒洗衣机全自动 智能家电TD100V86WMADY5&skuPrice=4329.00",
+                    "isfans": true,
+                    "batchReceiveCoupon": true,
+                    "addAndSubToast": {
+                        "lowestToastText": "最少购买1件哦！"
+                    },
+                    "isEasyBuyPrice": true,
+                    "isRx": false,
+                    "sdkDegrade": false,
+                    "stockNotice": false,
+                    "opForIos": true,
+                    "isCollect": false,
+                    "recTabEnable": true,
+                    "isJx": false,
+                    "secKillFlag": false,
+                    "isOTC": "0",
+                    "exDegrade": true,
+                    "cartFlag": true,
+                    "wareImageTest": "",
+                    "brandId": "162528",
+                    "isOP": false,
+                    "isPop": false,
+                    "androidImageSwitch": true,
+                    "shareUrl": "https://item.m.jd.com/product/8316196.html",
+                    "chatUrl": "https://m.360buyimg.com/n3/jfs/t1/175446/6/28633/158526/620e01a9E114dcd64/dca574d2aa3bd367.jpg.webp",
+                    "evaluateTabEnable": true,
+                    "category": "737;794;880",
+                    "isRegularPrice": true,
+                    "isEncrypt": true
+                },
+                "leVieuxFusil": false,
+                "newStyle": false,
+                "yanBaoInfo": {
+                    "yanBaoUrl": "https://baozhang.jd.com/static/serviceDesc",
+                    "yanBaoTitle": "京东保障服务",
+                    "yanBaoDetailUrl": "https://b.jr.jd.com/service/serveIntroduce/#/introduce3?mainSkuId=8316196&brandId=162528&thirdCategoryId=880&bindSkuId=",
+                    "yanBaoList": [
+                        {
+                            "categoryCode": "",
+                            "expendOn": true,
+                            "imgurl": "https://img30.360buyimg.com/fuwu/jfs/t1/123384/30/17704/1400/5fa4adcbEadbf7e43/9234af361a11e19b.png",
+                            "productId": 8316196,
+                            "products": [
+                                {
+                                    "discount": "3年换+2年修",
+                                    "platformPid": 10029958891837,
+                                    "price": "299.00",
+                                    "sortName": "5年免费修换",
+                                    "tip": "三包性能故障前三年换+后两年修"
+                                },
+                                {
+                                    "discount": "2年换+2年修",
+                                    "platformPid": 10029730781325,
+                                    "price": "259.00",
+                                    "sortName": "4年免费修换",
+                                    "tip": "三包性能故障前两年换+后两年修"
+                                },
+                                {
+                                    "discount": "已省110元",
+                                    "platformPid": 10035249730468,
+                                    "price": "259.00",
+                                    "sortName": "3年免费换新",
+                                    "tip": "三包性能故障JD免费换新机"
+                                },
+                                {
+                                    "discount": "已省30元",
+                                    "platformPid": 41815328631,
+                                    "price": "519.00",
+                                    "sortName": "4年免费换新",
+                                    "tip": "三包性能故障 免费换新机"
+                                }
+                            ],
+                            "sortName": "超值保障"
+                        },
+                        {
+                            "categoryCode": "",
+                            "expendOn": true,
+                            "imgurl": "https://img30.360buyimg.com/fuwu/jfs/t1/66622/39/10665/1459/5d82dccbE290e1d46/f00fbeb023594c3f.png",
+                            "productId": 8316196,
+                            "products": [
+                                {
+                                    "discount": "修不好换新机",
+                                    "platformPid": 10021337698515,
+                                    "price": "229.00",
+                                    "sortName": "4年全保修",
+                                    "tip": "三包+意外性能故障 免费维修"
+                                },
+                                {
+                                    "discount": "↓限时5折",
+                                    "platformPid": 72351815460,
+                                    "price": "249.00",
+                                    "sortName": "4年全保换新",
+                                    "tip": "性能/意外故障换JD新机"
+                                },
+                                {
+                                    "discount": "赠首年免费换新",
+                                    "platformPid": 10037215636944,
+                                    "price": "349.00",
+                                    "sortName": "6年全保修",
+                                    "tip": "三包+意外性能故障 免费维修"
+                                },
+                                {
+                                    "discount": "修不好换新机",
+                                    "platformPid": 10037884283931,
+                                    "price": "279.00",
+                                    "sortName": "5年全保修",
+                                    "tip": "三包+意外性能故障 免费维修"
+                                }
+                            ],
+                            "sortName": "全面保障"
+                        }
+                    ]
+                },
+                "priceLabel": "¥",
+                "abTestInfo": {
+                    "addCarRecommendAB": false,
+                    "addrUpAB": true,
+                    "askMedicineInfoAb": false,
+                    "attentionAB": "A",
+                    "collectABInfo": {
+                        "bottom3ABTest": true,
+                        "bottom4ABTest": true,
+                        "titleABTest": true
+                    },
+                    "darkModel": false,
+                    "easyDelAB": true,
+                    "evaluateAB": false,
+                    "feedBackAB": true,
+                    "hasChangeButton": true,
+                    "hospitalAB": "A",
+                    "hwShare": true,
+                    "magicHeadPicFlag": 0,
+                    "newUser": false,
+                    "newuserFreeAb": false,
+                    "noBotmShop": false,
+                    "openDarkModel": false,
+                    "packABTest": 1,
+                    "qaUpAb": false,
+                    "rankYhTag": true,
+                    "recommendPopup": false,
+                    "recommendYhTag": true,
+                    "shareM": "a",
+                    "shareShield": false,
+                    "shopABTest": "a",
+                    "shopCardTypeAb": true,
+                    "shopExtendsAb": true,
+                    "shopIntensifyAB": false,
+                    "shopPromotionAB": "B",
+                    "show3cService": true,
+                    "showBuyLayer": true,
+                    "skuSource": 3,
+                    "specialSelectAB": true,
+                    "toABTest": true
+                },
+                "shopInfo": {
+                    "shopTag": {
+                        "priority": 1,
+                        "shopMark": "zy",
+                        "tagIcon": "tab_054"
+                    },
+                    "shop": {
+                        "avgEfficiencyScore": 0.0,
+                        "avgServiceScore": 0.0,
+                        "avgWareScore": 0.0,
+                        "bigAtmosphere": false,
+                        "brief": "小天鹅洗衣机旗舰店",
+                        "cardType": 3,
+                        "cateGoodShop": 0,
+                        "diamond": false,
+                        "efficiencyScore": 0.0,
+                        "followCount": 4822298,
+                        "followText": "关注人数",
+                        "giftIcon": "",
+                        "globalGoodShop": 0,
+                        "goodShop": 0,
+                        "hasCoupon": false,
+                        "hotcates": [
+                            {
+                                "cardId": "-100",
+                                "categoryType": 1,
+                                "cid": 13346417,
+                                "cname": "产品类型",
+                                "commendSkuId": 100018366674,
+                                "imgPath": "https://img11.360buyimg.com/cms/jfs/t1/103244/17/23521/144585/620da171E9ff211b7/14174ad2752fb45c.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "categoryType": 1,
+                                "cid": 13595945,
+                                "cname": "智能家电",
+                                "commendSkuId": 100010233277,
+                                "imgPath": "https://img11.360buyimg.com/cms/jfs/t1/111949/13/20578/132185/620cc6f1Edba7b39b/628d968fedd9b3b3.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "categoryType": 1,
+                                "cid": 13346449,
+                                "cname": "公斤段",
+                                "commendSkuId": 100006468135,
+                                "imgPath": "https://img11.360buyimg.com/cms/jfs/t1/217075/3/12696/119257/620e1011Ef8a9bf10/8d611203aa5a5283.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "categoryType": 1,
+                                "cid": 13346458,
+                                "cname": "3000-4000元",
+                                "commendSkuId": 100023705376,
+                                "imgPath": "https://img11.360buyimg.com/cms/jfs/t1/221778/23/10612/138022/620a6163E4de2a1f6/6356e886ee3d4ce7.jpg"
+                            }
+                        ],
+                        "isSquareLogo": true,
+                        "logisticsText": "物流",
+                        "logo": "https://img13.360buyimg.com/jshopm/jfs/t14926/179/1111787070/6027/c375bdaa/5a45b31bNaf37ff67.png",
+                        "name": "小天鹅洗衣机京东自营旗舰店",
+                        "nameB": "小天鹅洗衣机京东自营旗舰店",
+                        "newNum": 0,
+                        "promotionNum": 0,
+                        "promotions": [
+                            {
+                                "name": "限时秒杀",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"shopName\":\"小天鹅洗衣机京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/jshopm/jfs/t14926/179/1111787070/6027/c375bdaa/5a45b31bNaf37ff67.png\",\"signboardUrl\":\"https://img12.360buyimg.com/cms/jfs/t1/138879/14/25146/47344/61ceee2fE617001d4/cf69c8fb78d81520.jpg\",\"activityTabInfo\":{\"sort\":\"secKillPage\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "每满200减30元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"shopName\":\"小天鹅洗衣机京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/jshopm/jfs/t14926/179/1111787070/6027/c375bdaa/5a45b31bNaf37ff67.png\",\"signboardUrl\":\"https://img12.360buyimg.com/cms/jfs/t1/138879/14/25146/47344/61ceee2fE617001d4/cf69c8fb78d81520.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200235575798\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "满1000减200元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"shopName\":\"小天鹅洗衣机京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/jshopm/jfs/t14926/179/1111787070/6027/c375bdaa/5a45b31bNaf37ff67.png\",\"signboardUrl\":\"https://img12.360buyimg.com/cms/jfs/t1/138879/14/25146/47344/61ceee2fE617001d4/cf69c8fb78d81520.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200235573039\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "每满1000减100元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"shopName\":\"小天鹅洗衣机京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/jshopm/jfs/t14926/179/1111787070/6027/c375bdaa/5a45b31bNaf37ff67.png\",\"signboardUrl\":\"https://img12.360buyimg.com/cms/jfs/t1/138879/14/25146/47344/61ceee2fE617001d4/cf69c8fb78d81520.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200235573007\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            }
+                        ],
+                        "score": 0.0,
+                        "serverText": "服务",
+                        "serviceScore": 0.0,
+                        "shopActivityTotalNum": 0,
+                        "shopId": 1000002505,
+                        "shopImage": "https://img14.360buyimg.com/cms/jfs/t1/168817/6/27750/253174/616cd607E7f30f83b/8d5027b1f749f74f.jpg",
+                        "shopStateText": "店铺动态",
+                        "showSignboardUrl": false,
+                        "signboardUrl": "https://img12.360buyimg.com/cms/jfs/t1/138879/14/25146/47344/61ceee2fE617001d4/cf69c8fb78d81520.jpg",
+                        "skuCntText": "全部商品",
+                        "skuText": "商品",
+                        "source": 4,
+                        "squareLogo": "https://img11.360buyimg.com/cms/jfs/t23146/57/1578705242/12134/bf51370/5b62bd83N99ae99f0.jpg",
+                        "telephone": "",
+                        "totalNum": 111,
+                        "venderType": "1",
+                        "wareScore": 0.0
+                    },
+                    "customerService": {
+                        "hasChat": true,
+                        "hasJimi": false,
+                        "allGoodJumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"jumpTab\":\"allProduct\"}",
+                        "mLink": "https://m.jd.com/product/8316196.html",
+                        "online": true,
+                        "inShopLookJumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000002505\",\"venderId\":\"1000002505\",\"jumpTab\":\"home\"}",
+                        "chatInfo": {
+                            "allGoodIcon": "detail_030",
+                            "allGoodText": "精选商品",
+                            "bottomIcon": "detail_025",
+                            "bottomText": "在线顾问",
+                            "isBubble": true,
+                            "isBubbleHV": false,
+                            "shopIcon": "detail_025",
+                            "shopText": "联系供应商"
+                        }
+                    }
+                },
+                "plusArgs": "H4sIAAAAAAAAAFWQwU7DMBBE/2XPEbKTJk16bBFSEYhKhQ9wk02ztNiR1wZFVf4d2wVEfZvn8eyOL3DwTBqZX6cRYQUSMhjPnh9Iq/POUhvgBQ6KiZO62uTV1JRr1NiTg5WYM+CTXyvGre5NfNSr1hk77Qcaw30GPVl2G+XwGOi2g9WyWGZAvFH6jfHe6GMK/gWP9AeeTJsSiF8+0TKqnbftEEYl+t797AmLIm/uhAgVGFuju5thzSLgwYxRSBFPXooybR1RXchKNlXSz8qeQlxeViHKDWRvkuo6lZ3Y4UfU8KUsBqNntP/7xx/aO+U8xywhYZ6/AcAj1yBvAQAA",
+                "isDesCbc": true,
+                "jdMarketBrandInfo": {
+                    "bLBackGroundImage": "https://m.360buyimg.com/cc/jfs/t1/181154/4/1661/63089/608ba839E10692b5a/ee1ef9b7d9f0fc98.png",
+                    "bLContentList": [
+                        {
+                            "bLCateIcon": "https://m.360buyimg.com/cc/jfs/t1/176335/24/7246/1966/608ba90aE5da9a901/ae66a2913785136c.png",
+                            "bLCateIconContent": "京东小家App是京东旗下的一站式智能服务生活平台\n通过一个App实现不同品牌产品间的互联智控\n提供产品的上门清洗/售后维修/以旧换新等服务",
+                            "bLCateIconTitle": "· 什么是京东小家App",
+                            "image": false
+                        },
+                        {
+                            "bLCateIcon": "https://m.360buyimg.com/cc/jfs/t1/185089/24/1581/2296/608ba93aE1967d1d7/c7d660e67c4b0735.png",
+                            "bLCateIconContent": "一键互联，打造智能管家：智能控制、状态查看、耗材提醒等\n场景升级，更多组合玩法：语音控制、定时开关、感应触发等\n智享生活，贴心主动服务：主动推荐、收费透明、服务专业",
+                            "bLCateIconTitle": "· 京东小家的优势",
+                            "image": false
+                        },
+                        {
+                            "bLCateIcon": "https://m.360buyimg.com/cc/jfs/t1/195678/35/642/2081/608ba98cEe7b08e86/307afd9c727322a8.png",
+                            "bLCateIconContent": "京东App内搜索“京东小家“\n或点击上方“无忧生活，智在小家”按钮直达。",
+                            "bLCateIconTitle": "· 如何找到京东小家产品",
+                            "image": false
+                        }
+                    ],
+                    "bLJumpImg": "https://m.360buyimg.com/cc/jfs/t1/194857/34/659/820/608ba9f1E51b898dd/3ce3281b027e1d2e.png",
+                    "bLTitle": "无忧生活，智在小家",
+                    "bLTitleColor": "#FFFFFF",
+                    "bLlogo": "https://m.360buyimg.com/cc/jfs/t1/185361/36/1580/8160/608ba7d0E2be04063/206d6277bf5822a2.png",
+                    "jumpEnum": "1",
+                    "jumpType": "1",
+                    "jumpUrl": "https://pro.m.jd.com/mall/active/KcfFqWvhb5hHtaQkS4SD1UU6RcQ/index.html",
+                    "type": "jyzn"
+                },
+                "isNewPP": true,
+                "isOpen": true,
+                "jumpToProduct": false,
+                "jdwlType": 0,
+                "liveInfo": {
+                    "openapp": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"sourceValue\":\"sourceValue_test\",\"sourceType\":\"sourceType_test\",\"des\":\"LivePlayerRoom\",\"id\":\"7328643\",\"isNeedVideo\":true,\"sku\":\"8316196\",\"liveOrigin\":\"20\"}",
+                    "livePic": "https://img30.360buyimg.com/livecms/jfs/t1/170077/32/13311/19430/6052eefdE8b34a6dc/293e5eb8d909c8f4.gif",
+                    "liveType": "0",
+                    "indexImage": "https://m.360buyimg.com/livecms/jfs/t1/148923/21/24038/610417/6205df7bE2857afde/20548c2179c5a6dc.png",
+                    "screen": "0",
+                    "isCloseDetailLive": false,
+                    "title": "直播中",
+                    "h5pullUrl": "https://jdpull.jd.com/live/3A0C037D43D2481A3D64F260D95863BF_fhd.m3u8",
+                    "liveId": "7328643"
+                },
+                "eventParam": {
+                    "sep": "{\"area\":\"15_1213_3038_0\",\"sku\":[[\"8316196\",\"4329.00\",\"现货,21:00前下单，预计(02月20日)送达\",\"33\",\"0\"]]}"
+                },
+                "rankType": 10,
+                "webCast": {
+                    "bottomPicFlag": 1,
+                    "ejectText": "店铺直播",
+                    "iconUrl": "https://m.360buyimg.com/mobilecal/jfs/t1/111482/9/15141/13251/5f3a285dEd0c9e981/bfe085c8766ca0d9.gif",
+                    "liveStatus": "1",
+                    "popupIcon": "https://m.360buyimg.com/cc/jfs/t1/74551/6/13853/1603/5db2c816E31a432b3/6871e8c02b3bb21f.png",
+                    "shopFloorText1": "直播中",
+                    "shopIcon": "https://m.360buyimg.com/cc/jfs/t1/93246/32/717/3522/5db2c7e2Eb494766c/cde4700a1343c30e.png",
+                    "shopList": [
+                        {
+                            "price": "8799.00",
+                            "skuId": "100026319718",
+                            "skuImg": "https://m.360buyimg.com/mobilecms/jfs/t1/97356/15/22478/174208/620cca5aE5163bd56/e60e7043ffdd85ec.jpg"
+                        },
+                        {
+                            "price": "939.00",
+                            "skuId": "6545435",
+                            "skuImg": "https://m.360buyimg.com/mobilecms/jfs/t1/206518/29/17494/106465/620cc200Ecc0d0cae/b0a9edb6d00e9dc1.jpg"
+                        },
+                        {
+                            "price": "939.00",
+                            "skuId": "100006583751",
+                            "skuImg": "https://m.360buyimg.com/mobilecms/jfs/t1/221057/15/10596/132752/620cc51eE5a394e63/3f589b6ac229f0de.jpg"
+                        }
+                    ],
+                    "skuShowtime": "7",
+                    "styleType": "2",
+                    "text": "智能洗衣小天鹅，好礼相赠享优惠",
+                    "url": "openapp.jdmobile://virtual?params={\"liveOrigin\":\"20\",\"des\":\"LivePlayerRoom\",\"sourceType\":\"sourceValue_test\",\"needLogin\":\"0\",\"id\":\"7328643\",\"sourceValue\":\"sourceValue_test\",\"category\":\"jump\"}"
+                },
+                "priceInfo": {
+                    "rangePriceFlag": false,
+                    "jprice": "4329.00"
+                },
+                "showAttentionButton": true,
+                "tenthRevision": false,
+                "attentionInfo": {
+                    "txt2": "已收藏",
+                    "txt1": "11.7万"
+                },
+                "weightInfo": {
+                    "content": "不计重量",
+                    "title": "重量"
+                },
+                "buttonInfo": {
+                    "main": {
+                        "bgColor": "#FFA600,#FFB000,#FFBC00;#E59500,#E59B00,#E6A800;#bfbfbf,#bfbfbf,#bfbfbf",
+                        "name": "立即抢购",
+                        "source": 3,
+                        "textColor": "#ffffffff",
+                        "type": 1
+                    },
+                    "second": {
+                        "bgColor": "#F10000,#FF2000,#FF4F18;#D80000,#E51C00,#E54615;#bfbfbf,#bfbfbf,#bfbfbf",
+                        "name": "加入购物车",
+                        "source": 3,
+                        "textColor": "#ffffffff",
+                        "type": 0
+                    }
+                },
+                "bottomButtonInfo": {
+                    "leftButtonInfo": {
+                        "buttonBusiness": "businessYuYue",
+                        "buttonDisableColor": "#bfbfbf,#bfbfbf,#bfbfbf",
+                        "buttonEnable": true,
+                        "buttonEvent": 10,
+                        "buttonHightColor": "#D80000,#E51C00,#E54615",
+                        "buttonNormalColor": "#F10000,#FF2000,#FF4F18",
+                        "buttonPriority": 160,
+                        "buttonText": "加入购物车",
+                        "buttonTextColor": "#FFFFFF"
+                    },
+                    "rightButtonInfo": {
+                        "buttonBusiness": "businessYuYue",
+                        "buttonDisableColor": "#bfbfbf,#bfbfbf,#bfbfbf",
+                        "buttonEnable": true,
+                        "buttonEvent": 11,
+                        "buttonHightColor": "#E59500,#E59B00,#E6A800",
+                        "buttonNormalColor": "#FFA600,#FFB000,#FFBC00",
+                        "buttonPriority": 160,
+                        "buttonText": "立即抢购",
+                        "buttonTextColor": "#FFFFFF"
+                    }
+                },
+                "pointInfo": {
+                    "isShowAr": true,
+                    "isOPType": 0,
+                    "ARType": "6_1000"
+                },
+                "wareImage": [
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/175446/6/28633/158526/620e01a9E114dcd64/dca574d2aa3bd367.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/175446/6/28633/158526/620e01a9E114dcd64/dca574d2aa3bd367.jpg!q70.dpg.webp",
+                        "share": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/175446/6/28633/158526/620e01a9E114dcd64/dca574d2aa3bd367.jpg!q70.jpg"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/223483/7/1728/166802/61cb036bE790d1bf8/bff1ceffef7798fc.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/223483/7/1728/166802/61cb036bE790d1bf8/bff1ceffef7798fc.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/189851/14/17037/415144/610b93acEd05aa3b3/fa63964d2ab6e2d8.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/189851/14/17037/415144/610b93acEd05aa3b3/fa63964d2ab6e2d8.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/176891/12/15415/361073/60fa781aEbaf2c4e3/9002b246c4a2eb40.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/176891/12/15415/361073/60fa781aEbaf2c4e3/9002b246c4a2eb40.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/177609/34/15421/294827/60fa7831E7a311c16/d716b15419a5b46c.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/177609/34/15421/294827/60fa7831E7a311c16/d716b15419a5b46c.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/173125/34/20169/262731/60fa785fE5e4691d2/0deb32dc4edcd592.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/173125/34/20169/262731/60fa785fE5e4691d2/0deb32dc4edcd592.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/63467/5/9107/400248/5d6e53f8Ed954e6f1/3a291ffa4bcddf0f.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/63467/5/9107/400248/5d6e53f8Ed954e6f1/3a291ffa4bcddf0f.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/214718/25/3975/114429/618bdfccEf9c15f19/523eb67f6b13ad50.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/214718/25/3975/114429/618bdfccEf9c15f19/523eb67f6b13ad50.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/162627/11/21841/148879/61b48a3cE46f4e694/a1817a5034603a1b.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/162627/11/21841/148879/61b48a3cE46f4e694/a1817a5034603a1b.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/172496/13/21099/284159/60fa781aEf38ccd52/fa5c59884f26abc2.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/172496/13/21099/284159/60fa781aEf38ccd52/fa5c59884f26abc2.jpg!q70.dpg.webp"
+                    }
+                ],
+                "oldMoreStyle": false,
+                "wareInfo": {
+                    "name": "小天鹅（LittleSwan）水魔方系列 京品家电 10公斤洗烘一体 滚筒洗衣机全自动 智能家电TD100V86WMADY5",
+                    "venderId": "1000002505",
+                    "skuId": "8316196"
+                },
+                "addFamilyList": {
+                    "showFamilyButton": true,
+                    "familyButtonName": "家庭清单",
+                    "hasAddFamilyList": false
+                },
+                "originalFactoryServiceInfo": {
+                    "serviceTitle": "原厂服务",
+                    "serviceList": [
+                        {
+                            "productType": 0,
+                            "products": [
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "超长保护免费换新",
+                                    "itemIndex": 343,
+                                    "serviceSku": "100017235423",
+                                    "serviceSkuName": "4年免费换新",
+                                    "serviceSkuPrice": "529.00",
+                                    "tip": "性能故障免费换新"
+                                },
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "高性价比爆款↓",
+                                    "itemIndex": 344,
+                                    "serviceSku": "100017235411",
+                                    "serviceSkuName": "3年免费换新",
+                                    "serviceSkuPrice": "269.00",
+                                    "tip": "性能故障免费换新"
+                                },
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "全面保障免费维修",
+                                    "itemIndex": 25434,
+                                    "serviceSku": "100017693147",
+                                    "serviceSkuName": "5年全保修",
+                                    "serviceSkuPrice": "289.00",
+                                    "tip": "性能/意外故障 免费维修"
+                                },
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "不限次↓免费上门",
+                                    "itemIndex": 25444,
+                                    "serviceSku": "100017693141",
+                                    "serviceSkuName": "4年全保修",
+                                    "serviceSkuPrice": "239.00",
+                                    "tip": "性能/意外故障 免费维修"
+                                }
+                            ],
+                            "scIconUrl": "https://img12.360buyimg.com/ling/jfs/t1/152564/37/17121/11836/601a7246E217513dd/703e6ac474c67d52.png",
+                            "scId": 58,
+                            "scIdStr": "58",
+                            "scName": "保障服务",
+                            "scOrder": 54
+                        }
+                    ],
+                    "type": "4",
+                    "url": "https://jstp-mpc.m.jd.com/#/serviceDetails?mainSku=8316196"
+                },
+                "promotionInfo": {
+                    "isBargain": false,
+                    "prompt": ""
+                },
+                "tabUrl": "https://in.m.jd.com/product/graphext_0_0_0_0_0/sequ/8316196.html",
+                "paiPaiOld4New": {
+                    "appleService": {
+                        "text1": "否",
+                        "text2": "是",
+                        "title": "以旧换新"
+                    },
+                    "body": {
+                        "jp": "4329.00",
+                        "type": 1,
+                        "skuId": "8316196"
+                    },
+                    "canExchange": false,
+                    "canJump": true,
+                    "clickText": "立即换新",
+                    "clickUrl": "https://o2n.m.jd.com/introduce?legacyMode=2&province=15&newCatId=880&wareId=8316196&city=1213&bizCode=3&isSupport=true&floorSign=activityIntoYjhxqsbtb&county=3038&operationSys=2&reason=success&",
+                    "inAuction": false,
+                    "jgBuryPoint": "3cyjhx",
+                    "maxSubsidy": 420.0,
+                    "maxSubsidyText": "最高补贴420",
+                    "mine": false,
+                    "openJG": true,
+                    "remainSeconds": "100",
+                    "subsidy4Floor": "https://img20.360buyimg.com/n1/s131x39_jfs/t1/117083/33/12747/6024/5f142908Ed139d280/0264d4f219939494.png",
+                    "subsidy4Toast": "https://img12.360buyimg.com/n1/s131x39_jfs/t1/117083/33/12747/6024/5f142908Ed139d280/0264d4f219939494.png",
+                    "text2": "家电焕新 立享优惠 拆运免费",
+                    "title": "以旧换新"
+                },
+                "isOpenH5": true,
+                "isScf": false,
+                "locCouponFlag": false,
+                "generalTrackDic": {
+                    "shopId": "1000002505",
+                    "skuId": "8316196"
+                },
+                "hwShareInfo": {
+                    "agreement": "《共享购物助手用户协议》",
+                    "agreementHead": "阅读并同意",
+                    "agreementToast": {
+                        "title": "共享购物助手用户协议",
+                        "content": "1、共享购物助手仅对两方用户都为华为手机指定机型系统时才可使用。其他手机系统无法使用此功能。\n2、发起者通过手机通讯录邀请好友即可发起共享。屏幕共享仅共享发起者屏幕界面，为单向共享。\n3、屏幕共享时，发起者和接收用户都可进行涂鸦操作，但接收用户无法操作发起者手机。\n4、在您购物时可能会访问个人隐私页面，如下单支付页、个人资料等，请您操作手机时，提前关闭屏幕共享功能，避免产生财产损失或个人信息泄漏风险。"
+                    },
+                    "bgImg": "https://m.360buyimg.com/cc/jfs/t1/87433/9/14305/3942/5e61f36bEbd3d824e/803805e128d145c1.png",
+                    "btnText": "授权并继续",
+                    "content": [
+                        {
+                            "text": "为获取最佳的手机屏幕共享体验，请授权开通一下访问权限",
+                            "title": "管理权限"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/89131/38/14192/2778/5e61f3d7E850859b5/7fb0f0a3fda84a0b.png",
+                            "text": "同步您认识的朋友",
+                            "title": "手机通讯录"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/95040/6/14048/2666/5e61f3bbEfcb1b7c8/f83962066c09a37b.png",
+                            "text": "和朋友边逛边聊",
+                            "title": "麦克风"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/95011/21/14187/1831/5e61f3a8Edf0b3de1/b2369787c683d65d.png",
+                            "text": "开始共享后您的手机屏幕将被对方看到，但对方无法操作您的手机。请在访问隐私页面（下单支付、个人资料等）时提前关闭共享功能，避免造成个人损失。"
+                        },
+                        {
+                            "text": "屏幕共享功能仅对两方用户都为华为手机时才可使用。发起者通过手机通讯录邀请好友即可发起共享。",
+                            "title": "使用介绍"
+                        }
+                    ],
+                    "disAgreeToast": "请先勾选“阅读并同意协议”",
+                    "image": [
+                        "http://m.360buyimg.com/cc/jfs/t1/102765/20/14157/94675/5e61f59bE4917f89f/3a327a6135c15137.png",
+                        "http://m.360buyimg.com/cc/jfs/t1/85216/14/14130/127510/5e61f5afE84efee9d/cecfbce5f3a8766b.png"
+                    ]
+                },
+                "styleSizeArType": "2",
+                "ddFatigueMechanism": {
+                    "leftBottomBubbleCount": "5",
+                    "leftBottomBubbleDuration": "5",
+                    "ddBottomToastDuration": "10",
+                    "ddBottomToastCount": "5",
+                    "ddRightCount": "5"
+                },
+                "appointAndPresaleOpen": true,
+                "plusShieldLandedPriceFlag": false,
+                "shareImgInfo": {
+                    "priceDes": "价格具有时效性",
+                    "promotionStr": "【满减】每满200元，可减30元现金",
+                    "shareLanguage": "推荐一个好物给你，请查收",
+                    "jprice": "4329.00"
+                }
+            },
+            "mId": "bpMasterdata",
+            "sortId": 199
+        }
+    ],
+    "others": {
+        "templateType": "appoint"
+    },
+    "wait": 0
+}

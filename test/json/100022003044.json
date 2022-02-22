@@ -1,0 +1,1916 @@
+{
+    "code": 0,
+    "floors": [
+        {
+            "bId": "eCustom_flo_299",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "isShowAR": false,
+                "threeDSwitch": false,
+                "videoControl": {
+                    "autoPlay": false,
+                    "masterVideo": {
+                        "duration": 43,
+                        "imageUrl": "https://jvod.300hu.com/img/2021/80082227/1/img2.jpg",
+                        "playBackFlag": false,
+                        "playUrl": "https://jvod.300hu.com/vod/product/50c3c07c-2762-4770-8c0b-51fa308bf15e/d1d17bc75f704f21b6c763bd11387d7e.mp4?source=2&h265=h265/18799/4808db070c90467b9960ef620a75bc3e.mp4",
+                        "useCoverPicture": false,
+                        "videoDuration": "00'43\"",
+                        "videoId": "575596518",
+                        "videoShare": {
+                            "des": "我发现了一个精彩的视频，快来看看吧",
+                            "microBlog": "我发现了一个精彩的视频，快来看看吧https://h5.m.jd.com/dev/3UmozpxSyHxMaXRXndHbUhwC4iuN/index.html?skuId=100022003044",
+                            "title": "这个小视频不错哦~",
+                            "url": "https://h5.m.jd.com/dev/3UmozpxSyHxMaXRXndHbUhwC4iuN/index.html?skuId=100022003044"
+                        }
+                    },
+                    "optimize": true
+                }
+            },
+            "mId": "bpMainImage",
+            "refId": "eMainImage_0000000030",
+            "sortId": 1
+        },
+        {
+            "bId": "eCustom_flo_505",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCjxpUp",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_334",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpPromot",
+            "refId": "ePromot_0000000051",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_255",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {},
+            "mId": "bpSecBanner",
+            "refId": "eSecBanner_0000000023",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_333",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpSkinBanner",
+            "refId": "eSkinBanner_0000000023",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_508",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpDsj",
+            "sortId": 2
+        },
+        {
+            "bId": "eCustom_flo_506",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCjxpDown",
+            "sortId": 4
+        },
+        {
+            "bId": "eCustom_flo_229",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "priceIcon": {
+                    "jiangJia": "https://m.360buyimg.com/cc/jfs/t17767/313/1571185437/16553/ad5bc0be/5acdf3deN0078de63.png",
+                    "kanJia": "https://m.360buyimg.com/cc/jfs/t18559/311/1506989738/3700/cea16f48/5acdf410N0435a64a.png"
+                },
+                "priceInfo": {
+                    "pcPrice": {
+                        "display": true,
+                        "value": ""
+                    },
+                    "mprice": {
+                        "display": true,
+                        "name": "参考价：",
+                        "value": "10199.00"
+                    },
+                    "isCut": false,
+                    "discount": {
+                        "display": true
+                    },
+                    "saveMoney": "省4100元",
+                    "jprice": {
+                        "display": true,
+                        "name": "京东价：",
+                        "value": "5999.00"
+                    }
+                },
+                "showAttentionPriceFloor": true
+            },
+            "mId": "bpJPrice",
+            "refId": "eJPrice_0000000098",
+            "sortId": 5
+        },
+        {
+            "bId": "eCustom_flo_337",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpGroup",
+            "refId": "eGroup_0000000006",
+            "sortId": 8
+        },
+        {
+            "bId": "eCustom_flo_332",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpSeckill",
+            "refId": "eSeckill_0000000100",
+            "sortId": 8
+        },
+        {
+            "bId": "eCustom_flo_300",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "showAttention": true,
+                "title2ndIconType": 0,
+                "imgToWareName": [
+                    "tab_054"
+                ]
+            },
+            "mId": "bpName",
+            "refId": "eName_0000000015",
+            "sortId": 10
+        },
+        {
+            "bId": "eCustom_flo_452",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "brightPoints": "• 标压6核  • 微边全面屏  • 高色域"
+            },
+            "mId": "bpBrightpoint",
+            "sortId": 11
+        },
+        {
+            "bId": "eCustom_flo_199",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "ad": {
+                    "adLink": "https://pro.jd.com/mall/active/RFp7sYBB36qaPj26DnCJMaN7UM2/index.html",
+                    "adLinkContent": "查看>",
+                    "adword": "【电竞游戏本】全新11代酷睿，标压6核，全面屏高色域，数字小键盘，大电池长续航，接口丰富，PD快充（更多好货）",
+                    "color": "#f23030",
+                    "hasFold": true,
+                    "newALContent": true,
+                    "textColor": "#8C8C8C"
+                }
+            },
+            "mId": "bpAdword",
+            "refId": "eAdword_0000000028",
+            "sortId": 13
+        },
+        {
+            "bId": "eCustom_flo_335",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpBlank",
+            "refId": "eBlank_0000000102",
+            "sortId": 14
+        },
+        {
+            "bId": "eCustom_flo_347",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpInstallment",
+            "refId": "eInstallment_0000000075",
+            "sortId": 20
+        },
+        {
+            "bId": "eCustom_flo_329",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCardFlow",
+            "refId": "eCardFlow_0000000053",
+            "sortId": 24
+        },
+        {
+            "bId": "eCustom_flo_330",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpCertify",
+            "refId": "eCertify_0000000004",
+            "sortId": 30
+        },
+        {
+            "bId": "eCustom_flo_221",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "line"
+            },
+            "data": {
+                "compare": {
+                    "action": "1",
+                    "compareUrl": "openapp.jdmobile://virtual?params={\"ishidden\":true,\"des\":\"jdreactcommon\",\"appname\":\"JDReactGoodsContrast\",\"param\":{\"cateId\":\"1105\",\"action\":\"1\",\"client\":\"app\",\"skuId\":\"100022003044\"},\"modulename\":\"JDReactGoodsContrast\",\"category\":\"jump\",\"h5params\":{}}",
+                    "icon": "https://m.360buyimg.com/cc/jfs/t1/148739/25/5766/749/5f3b7655E3954cb13/0e5cd417c4d55d0c.png",
+                    "iconName": "商品对比"
+                },
+                "specBuryPoint": "CPU_屏幕类型_核心_分辨率_显存容量",
+                "title": "规格",
+                "CccKernel": [
+                    {
+                        "attDictUrl": "",
+                        "attValueDefinition": "",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/150747/33/216/618/5f584987E4592076e/e6d4b14a2aeed23a.png",
+                        "paramName": "CPU",
+                        "paramValue": "i5-11400H"
+                    },
+                    {
+                        "attValueDefinition": "",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/137646/32/8007/378/5f5849d0E25a4bbde/3266e4329002b522.png",
+                        "paramName": "屏幕类型",
+                        "paramValue": "IPS"
+                    },
+                    {
+                        "attValueDefinition": "",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/115751/31/17062/757/5f584b15E913cc93d/993f163e60fe1608.png",
+                        "paramName": "核心",
+                        "paramValue": "六核"
+                    },
+                    {
+                        "attValueDefinition": "",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/133538/6/9365/1858/5f5849ecEf797793a/b84e82befb92416a.png",
+                        "paramName": "分辨率",
+                        "paramValue": "1920*1080"
+                    },
+                    {
+                        "attDictUrl": "",
+                        "attValueDefinition": "",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/138325/8/8007/644/5f584b8aE7b011e8e/c181b5cd333eba77.png",
+                        "paramName": "显存容量",
+                        "paramValue": "4GB"
+                    }
+                ]
+            },
+            "mId": "bpParam",
+            "sortId": 49
+        },
+        {
+            "bId": "eCustom_flo_462",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "preferentialGuide": {
+                    "vipJumpUrl": "https://shopmember.m.jd.com/shopcard/?venderId=1000000157&shopId=1000000157&venderType=1&channel=999&returnUrl=",
+                    "couponInfo": [],
+                    "whiteBarInfo": {
+                        "ava": false,
+                        "btUser": true,
+                        "login": true,
+                        "marketingText": "",
+                        "marketingTitle": "白条",
+                        "pct": 0,
+                        "planId": 1,
+                        "planInfos": [
+                            {
+                                "isMaxdiscount": true,
+                                "laterPay": "5999.00",
+                                "mainTitle": "不分期",
+                                "plan": 1,
+                                "planFee": "0.00",
+                                "rate": "0.00",
+                                "secondTitle": "先用后付，无服务费"
+                            }
+                        ],
+                        "secLevelBtnName": "立即打白条",
+                        "secLevelTitle": "白条支付"
+                    },
+                    "vipJumpType": 2,
+                    "iconCode": "detail_var_045",
+                    "promotion": {
+                        "activity": [
+                            {
+                                "value": "购买不超过1件时享受单件价￥5999，超出数量以结算价为准",
+                                "text": "限购",
+                                "skuId": "",
+                                "proSortNum": 100,
+                                "link": "",
+                                "proId": "200238806060",
+                                "promoId": ""
+                            },
+                            {
+                                "value": "购买1件可优惠换购热销商品",
+                                "text": "换购",
+                                "proSortNum": 120,
+                                "proId": "200228717428",
+                                "proChannel": 3,
+                                "promoId": "200228717428"
+                            },
+                            {
+                                "value": "PLUS专享10倍返豆，订单完成后最高可返2999京豆",
+                                "text": "返京豆",
+                                "proSortNum": "-10",
+                                "valueList": []
+                            }
+                        ],
+                        "activityTypes": [
+                            "3",
+                            "60"
+                        ],
+                        "attach": [],
+                        "canReturnHaggleInfo": false,
+                        "gift": [],
+                        "isBargain": false,
+                        "isTwoLine": true,
+                        "limitBuyInfo": {
+                            "noSaleFlag": "0",
+                            "limitNum": "0",
+                            "strategyFlag": "0",
+                            "isPlusLimit": "0",
+                            "limitAreaFlag": "1",
+                            "limitPeopleFlag": "1"
+                        },
+                        "normalMark": "tab_var_071",
+                        "plusDiscountMap": {},
+                        "plusMark": "tab_var_124",
+                        "prompt": "1;2",
+                        "screenLiPurMap": {},
+                        "tip": "",
+                        "tips": []
+                    },
+                    "hasFinanceCoupon": false
+                }
+            },
+            "mId": "bpAggrePromo",
+            "sortId": 51
+        },
+        {
+            "bId": "eCustom_flo_442",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "white_line_L"
+            },
+            "data": {
+                "actions": {
+                    "bigSale": {
+                        "bizKey": "gjhsNew",
+                        "desc": "闲置旧机卖高价，赚钱回血",
+                        "descBounce": "闲置旧机卖高价，赚钱回血",
+                        "icon": "https://m.360buyimg.com/cc/jfs/t1/17024/4/15356/2143/5caeb5efEf90f64a9/f4205d7302e4433c.png",
+                        "jumpType": 1,
+                        "mustLogin": false,
+                        "truthBigSale": false,
+                        "url": "https://huishou.m.jd.com/index?s=1&source=3&skuId=100022003044&cid1=670&cid2=671&cid3=1105&province=15&city=1213&country=3038&town=0&addressId=&longitude=0.0&latitude=0.0&hx=0&IsSXQJ=0&IsYZS=0&menu=0&commodityType=2&activityType=1&localProductParam=LocalProductParam(brand=google, model=Pixel3)"
+                    },
+                    "bizActs": [
+                        {
+                            "bizKey": "shopactivity",
+                            "desc": "店铺秒杀活动，限时抢！",
+                            "icon": "https://img10.360buyimg.com/imgzone/jfs/t1/150379/26/9263/4485/5fc5fd0aEcf116246/9eba0735eaeb4de3.png",
+                            "jumpType": 2,
+                            "mustLogin": false,
+                            "truthBigSale": false,
+                            "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"venderId\":\"1000000157\",\"jumpTab\":\"secKill\",\"sourceInfo\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"ActiveFloor\"}}"
+                        }
+                    ]
+                }
+            },
+            "mId": "bpActivity",
+            "sortId": 55
+        },
+        {
+            "bId": "eCustom_flo_453",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "authorityRankInfo": {
+                    "arrowPic": "https://img13.360buyimg.com/imagetools/jfs/t1/138366/15/16951/580/605969e6Ea53ddf09/5dd237d5ecd3044e.png",
+                    "floorBgImage": "https://img14.360buyimg.com/imagetools/jfs/t1/167859/7/13857/73719/605976e7E9d41f038/910cd8addcd00110.png",
+                    "floorPosition": "1",
+                    "fontColor": "#262626",
+                    "icon": "https://img14.360buyimg.com/imagetools/jfs/t1/157159/2/15344/3856/605976f1Ec110ec34/e94a755182fe3057.png",
+                    "jumpType": "H5",
+                    "jumpUrl": "https://h5.m.jd.com/babelDiy/Zeus/2kuDDsNmnkdsxbv8sLoZhHWtqh5Z/index.html?contentId=24263&rankType=13&fromName=Productdetail&sku=100022003044",
+                    "rankId": "24263",
+                    "rankName": "入选2月『游戏本金榜』TOP20",
+                    "type": "2"
+                }
+            },
+            "mId": "bpauthority",
+            "sortId": 63
+        },
+        {
+            "bId": "eCustom_flo_309",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "selected": ""
+            },
+            "mId": "bpChoice",
+            "refId": "eChoice_0000000018",
+            "sortId": 64
+        },
+        {
+            "bId": "eCustom_flo_253",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "white_line_L"
+            },
+            "data": {
+                "stock": "无货",
+                "serviceType": 0,
+                "defaultAddr": {
+                    "cityId": "1213",
+                    "cityName": "杭州市",
+                    "countyId": "3038",
+                    "countyName": "滨江区",
+                    "provinceId": "15",
+                    "provinceName": "浙江",
+                    "townId": "59931",
+                    "townName": "西兴街道"
+                }
+            },
+            "mId": "bpAddr",
+            "refId": "eAddr_0000000008",
+            "sortId": 69
+        },
+        {
+            "bId": "eCustom_flo_231",
+            "cf": {
+                "bgc": "#fcfcfc",
+                "spl": "empty"
+            },
+            "data": {
+                "servIconRelation": [
+                    {
+                        "iconType": "exclamation",
+                        "iconValue": "detail_006"
+                    },
+                    {
+                        "iconType": "right",
+                        "iconValue": "detail_005"
+                    }
+                ],
+                "serviceInfo": {
+                    "basic": {
+                        "iconList": [
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/cc/jfs/t4984/195/1172610074/2110/e12abb06/58ede3e4Nfc650507.png",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 2,
+                                "text": "可配送海外",
+                                "tip": "支持收货地址为海外"
+                            },
+                            {
+                                "iconType": "exclamation",
+                                "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t2812/303/4025969561/2165/30df9c1b/57aa8a96Nfd0933fa.png",
+                                "jichu": false,
+                                "show": true,
+                                "sortId": 13,
+                                "text": "不可使用京券东券",
+                                "tip": "此商品不可使用京券、东券"
+                            },
+                            {
+                                "iconType": "right",
+                                "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t2176/234/1856411458/2044/91ae040b/5680f585N70da96a6.png",
+                                "jichu": false,
+                                "serviceIconType": 0,
+                                "show": true,
+                                "sortId": 6,
+                                "text": "京东发货&售后",
+                                "tip": "由京东发货并提供售后服务"
+                            }
+                        ],
+                        "title": "服务说明"
+                    }
+                },
+                "isIcon": true
+            },
+            "mId": "bpServe",
+            "refId": "eServe_0000000038",
+            "sortId": 75
+        },
+        {
+            "bId": "eCustom_flo_302",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {},
+            "mId": "bpEvaluate",
+            "refId": "eEvaluate_0000000007",
+            "sortId": 83
+        },
+        {
+            "bId": "eCustom_flo_517",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "line"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpAsk",
+            "refId": "eAsk_0000000044",
+            "sortId": 84
+        },
+        {
+            "bId": "eCustom_flo_465",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "pgcInfo": {
+                    "flagVideoOrArticle": "1",
+                    "moreJumpUrl": "openApp.jdMobile://virtual?params={\"floorId\":3,\"des\":\"productRecommendVideoList\",\"releaseType\":1,\"execParams\":{\"needAuthorMsg\":true,\"needPv\":true,\"needAdd\":true},\"category\":\"jump\",\"skuId\":\"100022003044\",\"isPrivateShow\":true}",
+                    "title": "好物测评",
+                    "videoList": [
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/145937/32/22826/1283171/620c7b04E1ca46481/a39fefeacb68b2f6.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "7人看过",
+                            "author": "一南好物推荐",
+                            "style": "11",
+                            "authorPic": "https://m.360buyimg.com/ceco/jfs/t1/171779/34/23904/4611/61b97f42E0ae9a644/be7a38dae197146a.jpg",
+                            "materialId": "300998513",
+                            "paperTitle": "更预算更高性能，拯救者Y7000",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"300998513\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/220875/14/12426/1640317/620cb852E67cdcf0b/3e49f7beb9defb73.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "11人看过",
+                            "author": "随风dog",
+                            "style": "2",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3432656162386537633530316331363339373331373636383832_big.jpg",
+                            "materialId": "300967947",
+                            "paperTitle": "联想拯救者Y7000，强者的世界等你来",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"2\",\"id\":\"300967947\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 0
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/216229/22/12626/753774/620c656dE282b3a4d/10c673d04f098c53.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "8人看过",
+                            "author": "好物优选大全",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f63515a7a727844516c754f7731363433383032393539373939_big.jpg",
+                            "materialId": "300984705",
+                            "paperTitle": "为电竞而生的联想拯救者Y7000，一款超能打游戏本！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"300984705\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/207020/18/12806/1647939/61b87aedEebbceb8f/dd26c5b9feb864be.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1334人看过",
+                            "author": "数数数码",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f5945785748696b505568566e31363339343531343237383430_big.jpg",
+                            "materialId": "292207025",
+                            "paperTitle": "联想拯救者Y7000，高性能笔记本？",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292207025\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/195242/18/14958/1524179/60fe3ecdEaf49a037/032a4e6b397c76fb.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1906人看过",
+                            "author": "京选潮品汇",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/bea9c8d5cfedc9fabbee31363338363237313838373139_big.jpg",
+                            "materialId": "265462822",
+                            "paperTitle": "联想拯救者为电竞而生！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"265462822\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/168754/12/27533/135631/61b86b80E5b9d3713/bde32d5e68ee1046.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "613人看过",
+                            "author": "Librahaha",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f5264445643777a625a79545731363430303138383139333136_big.jpg",
+                            "materialId": "292196521",
+                            "paperTitle": "联想拯救者Y7000使用起来怎么样呢？",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292196521\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/85298/19/19886/297342/61d3fee7E942ec54a/cd77e7ebd39648ef.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "317人看过",
+                            "author": "晨辉优选",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3430616262373361623531346631363338373736323532373238_big.jpg",
+                            "materialId": "295636782",
+                            "paperTitle": "还在困惑买什么笔记本电脑么？果断入手拯救者就完了！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"295636782\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/218345/4/10020/660889/61d654cdE14f61043/18d090220c6feaf9.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "274人看过",
+                            "author": "晋嗨乐购",
+                            "style": "11",
+                            "authorPic": "https://m.360buyimg.com/ceco/jfs/t1/171779/34/23904/4611/61b97f42E0ae9a644/be7a38dae197146a.jpg",
+                            "materialId": "295893878",
+                            "paperTitle": "好物推荐联想电竞游戏本电脑",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"295893878\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/171477/30/21545/324128/617ceee4Ec134f2a4/5bc42b4ccdff3e48.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "870人看过",
+                            "author": "钟奇好物分享管",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f766578587a49665a56486d4831363335353239313031333332_big.jpg",
+                            "materialId": "282711895",
+                            "paperTitle": "联想拯救者Y7000 游戏本中的战斗机！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"282711895\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/111656/30/21367/1200315/61d65478Ecfa21f05/888f2f75801d42f4.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "697人看过",
+                            "author": "晋嗨乐购",
+                            "style": "11",
+                            "authorPic": "https://m.360buyimg.com/ceco/jfs/t1/171779/34/23904/4611/61b97f42E0ae9a644/be7a38dae197146a.jpg",
+                            "materialId": "295894130",
+                            "paperTitle": "好物联想拯救者Y7000电竞游戏本值得拥有",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"295894130\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/214379/6/10555/496390/61dc3bc3Eb55a1f38/997e1d2048ef47b8.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "535人看过",
+                            "author": "小路爱推荐",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f4b67485648466d666a67675331363338383433393932363331_big.jpg",
+                            "materialId": "296575923",
+                            "paperTitle": "新的一年还不快买新电脑",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"296575923\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/202521/4/12555/693900/6176a5dfE09872a78/a75f4fd49c9e3ce1.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1533人看过",
+                            "author": "严选师惠惠",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f72777874597a56565273775231363338393832343632373333_big.jpg",
+                            "materialId": "281487565",
+                            "paperTitle": "联想拯救者Y7000，为游戏而生的笔记本！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"281487565_292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"281487565\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/173585/13/21713/135631/61b8687fEa1da3e7e/fb6153f254fe3b9f.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1006人看过",
+                            "author": "Librahaha",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f5264445643777a625a79545731363430303138383139333136_big.jpg",
+                            "materialId": "292192651",
+                            "paperTitle": "联想拯救者Y7000沉浸式开箱",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292192651_288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292192651\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/110859/28/22400/195854/619f11c3E780faf7d/03456bbdbd668b1b.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "1013人看过",
+                            "author": "平民消费者阿龙",
+                            "style": "2",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f6866736670556f62484a4a4c31363339323239363337343134_big.jpg",
+                            "materialId": "288305915",
+                            "paperTitle": "高颜值游戏本，游戏办公俩不误！",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"288305915_272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"2\",\"id\":\"288305915\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 0
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/82266/2/17383/196956/6139d561E15837843/b1ee20125b49155c.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "2003人看过",
+                            "author": "数码好物推荐分享官",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f6d7270774b4a6b654654444331363430303138373335333734_big.jpg",
+                            "materialId": "272551881",
+                            "paperTitle": "联想拯救者Y7000你喜欢吗",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"272551881_279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"272551881\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/203480/14/11816/1801341/616e7b26Ea56fa3c7/3808b8c455d22ea2.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "892人看过",
+                            "author": "小杰杰数码",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3461366666643438633730356131363339313030373638333935_big.jpg",
+                            "materialId": "279894166",
+                            "paperTitle": "拯救者Y7000，2021款工厂定制版到货",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"279894166_279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"279894166\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/219096/7/1028/2093650/616e7f04E6bd3b1c9/5a831c20f9172ba7.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "640人看过",
+                            "author": "小杰杰数码",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f3461366666643438633730356131363339313030373638333935_big.jpg",
+                            "materialId": "279897486",
+                            "paperTitle": "游戏本拯救者y7000",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"279897486_292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"279897486\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/138721/4/25174/135631/61b86f4bE98f74ed3/f68929ae566e17c3.jpg",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "343人看过",
+                            "author": "Librahaha",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6a645f5264445643777a625a79545731363430303138383139333136_big.jpg",
+                            "materialId": "292199540",
+                            "paperTitle": "联想拯救者Y7000到底值不值得买？",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"292199540_280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"292199540\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        },
+                        {
+                            "image": "https://m.360buyimg.com/ceco/jfs/t1/203480/14/11816/1801341/616e7b26Ea56fa3c7/3808b8c455d22ea2.png",
+                            "exposureIcon": "https://m.360buyimg.com/cc/jfs/t1/109195/9/6372/2066/5e4bf240E0b5fafe5/f9a6dfc177fb7c4a.png",
+                            "exposure": "898人看过",
+                            "author": "a27985741",
+                            "style": "11",
+                            "authorPic": "https://storage.360buyimg.com/i.imageUpload/6132373938353131363339373330373031313837_big.jpg",
+                            "materialId": "280839340",
+                            "paperTitle": "拯救者Y7000，2021款工厂定制版到货",
+                            "url": "openApp.jdMobile://virtual?params={\"des\":\"VideoImmersion\",\"adid\":\"280839340_300998513_300967947_300984705_292207025_265462822_292196521_295636782_295893878_282711895_295894130_296575923_281487565_292192651_288305915_272551881_279894166_279897486_292199540\",\"playtype\":\"67\",\"modeid\":\"10\",\"style\":\"11\",\"id\":\"280839340\",\"category\":\"jump\",\"skuId\":\"100022003044\"}",
+                            "videoStyle": 1
+                        }
+                    ],
+                    "videoNumber": 19
+                }
+            },
+            "mId": "bpPGC",
+            "sortId": 85
+        },
+        {
+            "bId": "eCustom_flo_239",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "darkModel": false,
+                "eventId": "Productdetail",
+                "tenthRevision": false,
+                "bizList": [
+                    {
+                        "bizKey": "ensure",
+                        "icon": "https://m.360buyimg.com/mobilecms/jfs/t1156/166/1499324257/1982/49bdbf10/572c6869N578efca5.png",
+                        "jumpData": {
+                            "bizType": 2
+                        },
+                        "title": "保障服务",
+                        "type": 3,
+                        "url": "2",
+                        "mustLogin": false,
+                        "desc": "为商品保驾护航"
+                    }
+                ],
+                "slide": {
+                    "slideSelect": "#F0250F",
+                    "slideColor": "#e3e5e9"
+                }
+            },
+            "mId": "bpBusSupport",
+            "refId": "eBusSupport_0000000019",
+            "sortId": 86
+        },
+        {
+            "bId": "eCustom_flo_392",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "matchPurchase": {
+                    "mpList": [
+                        {
+                            "imgUrl": "https://img11.360buyimg.com/n1/s800x800_jfs/t1/210961/2/10600/212425/61a08da7E4935ad98/ff1bbe1b805053a6.jpg",
+                            "matchBrief": "拯救者电脑+拯救者鼠标+机械键盘",
+                            "matchId": "646732",
+                            "matchTitle": "拯救者电脑键鼠套装"
+                        }
+                    ],
+                    "mpTitle": "搭配购"
+                }
+            },
+            "mId": "bpMatchPurchase",
+            "sortId": 87
+        },
+        {
+            "bId": "eCustom_flo_331",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "track": {
+                    "floorId": "flo_331",
+                    "shopId": "",
+                    "skuId": ""
+                },
+                "bgc": "#ffffff"
+            },
+            "mId": "bpShop",
+            "refId": "eShop_0000000012",
+            "sortId": 88
+        },
+        {
+            "bId": "bpParts_flo_295",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "jumpType": 1,
+                "text3C": "#000000",
+                "text1C": "#2E2D2D",
+                "text3Bgc": "#F9F9F9",
+                "text2C": "#2E2D2D",
+                "text1B": true,
+                "buried": "Productdetail",
+                "imgInfo": [
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/61494/1/14692/38381/5dc117b5E417da662/1d8dad7f18579c7b.png",
+                        "imgText": "游戏鼠标",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=149"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/48913/26/15104/24226/5dc117cbE8296c4ce/2dbf5748b32d1d06.png",
+                        "imgText": "机械键盘",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=159"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/36905/3/7233/24726/5cc6ca65E0699ee57/6379f7c1515af598.png",
+                        "imgText": "笔记本配件",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=655"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t19105/93/361231856/18632/725ad22d/5a6ed9e4N4d8664c4.jpg",
+                        "imgText": "鼠标垫",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=281"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t1/59962/7/14676/45592/5dc117eeE40128334/6413cd48583ab4da.png",
+                        "imgText": "游戏耳机",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=428"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t14314/311/2143103846/14618/f55d3200/5a6ecea3N534c00fb.jpg",
+                        "imgText": "U盘",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=152"
+                    },
+                    {
+                        "imgUrl": "https://img12.360buyimg.com/img/jfs/t20323/249/261656222/15842/4d1dcd78/5b07bb7aN7502aa9e.jpg",
+                        "imgText": "插座",
+                        "imgJumpType": 1,
+                        "imgJumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=657"
+                    }
+                ],
+                "jumpUrl": "https://3c-peijian.jd.com/index?cid=1105&sku=100022003044&source=itemDetail&accyCategoryId=-99999",
+                "tailIcon": "https://m.360buyimg.com/cc/jfs/t20419/242/1733633141/407/d3fcd52b/5b31f170Neb3e95e0.png",
+                "text3": "",
+                "text3S": 24,
+                "text1": "热门配件",
+                "text1S": 26,
+                "text2": "查看全部",
+                "text2S": 24,
+                "tailIconH": 20,
+                "viewMore": true,
+                "bgc": "#ffffff"
+            },
+            "mId": "bpParts",
+            "refId": "eAccyCenter_0000000056",
+            "sortId": 90
+        },
+        {
+            "bId": "eCustom_flo_478",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "newRecommend": ""
+            },
+            "mId": "bpRelRecom",
+            "sortId": 93
+        },
+        {
+            "bId": "eCustom_flo_307",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "grey_strip"
+            },
+            "data": {
+                "bgc": "#ffffff"
+            },
+            "mId": "bpDetails",
+            "refId": "eDetails_0000000000",
+            "sortId": 94
+        },
+        {
+            "bId": "eCustom_flo_201",
+            "cf": {
+                "bgc": "#ffffff",
+                "spl": "empty"
+            },
+            "data": {
+                "templateType": "normal",
+                "topOn": false,
+                "colorSizeInfo": {
+                    "colorSize": [
+                        {
+                            "buttons": [
+                                {
+                                    "no": "1",
+                                    "skuList": [
+                                        "100022003046"
+                                    ],
+                                    "text": "Y7000P/RTX3050Ti/i7/165Hz屏"
+                                },
+                                {
+                                    "no": "2",
+                                    "skuList": [
+                                        "100022003016"
+                                    ],
+                                    "text": "Y7000P/RTX3050Ti/i5/165Hz屏"
+                                },
+                                {
+                                    "no": "3",
+                                    "skuList": [
+                                        "100021965308"
+                                    ],
+                                    "text": "Y7000P/RTX3060/i7/165Hz电竞屏"
+                                },
+                                {
+                                    "no": "4",
+                                    "skuList": [
+                                        "100011551115"
+                                    ],
+                                    "text": "Y7000/RTX3050/i7/高色域屏"
+                                },
+                                {
+                                    "no": "5",
+                                    "skuList": [
+                                        "100022003044"
+                                    ],
+                                    "text": "Y7000/RTX3050/i5/高色域屏"
+                                }
+                            ],
+                            "title": "处理器或显卡"
+                        },
+                        {
+                            "buttons": [
+                                {
+                                    "no": "1",
+                                    "skuList": [
+                                        "100011551115",
+                                        "100021965308",
+                                        "100022003016",
+                                        "100022003044",
+                                        "100022003046"
+                                    ],
+                                    "text": "官方标配"
+                                }
+                            ],
+                            "title": "存储"
+                        },
+                        {
+                            "buttons": [
+                                {
+                                    "no": "1",
+                                    "skuList": [
+                                        "100011551115",
+                                        "100021965308",
+                                        "100022003016",
+                                        "100022003044",
+                                        "100022003046"
+                                    ],
+                                    "text": "官方标配"
+                                }
+                            ],
+                            "title": "配置"
+                        }
+                    ],
+                    "colorSizeTips": "#与其他已选项无法组成可售商品，请重选"
+                },
+                "abBuriedExpLabels": {},
+                "isOpenCar": true,
+                "promotionPoint": {
+                    "promotionSkinPoint": "0",
+                    "promotionTagPoint": "0"
+                },
+                "supportSale": true,
+                "soldOversea": {
+                    "isSoldOversea": true,
+                    "soldOverseaService": {
+                        "soldOverseaIcon": "https://m.360buyimg.com/cc/jfs/t4984/195/1172610074/2110/e12abb06/58ede3e4Nfc650507.png",
+                        "soldOverseaText": "售全球",
+                        "soldOverseaDesc": "支持收货地址为海外或港澳台地区"
+                    },
+                    "soldOverseaStr": "7"
+                },
+                "abTest800": true,
+                "jdSerPlusInfo": {
+                    "jdSerPlusUrl": "https://m-weixiu.jd.com/spbuy/getServicePlusInfo?pid=100022003044,15,1213,3038,0,",
+                    "jdSerPlusList": [
+                        {
+                            "products": [
+                                {
+                                    "goldSafe": false,
+                                    "itemIndex": 1,
+                                    "serviceSku": "100001728785",
+                                    "serviceSkuAdWord": "新机开荒服务，全新联想背包",
+                                    "serviceSkuPrice": "79.00",
+                                    "serviceSkuShortName": "服务赠背包"
+                                },
+                                {
+                                    "discount": "云充电无限换",
+                                    "goldSafe": false,
+                                    "itemIndex": 2,
+                                    "serviceSku": "100014997134",
+                                    "serviceSkuAdWord": "不用充电+可随处换壳的黑科技充电宝",
+                                    "serviceSkuPrice": "129.00",
+                                    "serviceSkuShortName": "黑科技充电宝"
+                                }
+                            ],
+                            "scIconUrl": "https://img30.360buyimg.com/test/jfs/t22591/304/706950607/2589/af1c7233/5b3cc13dN9aa73178.png",
+                            "scId": 496,
+                            "scName": "特色服务",
+                            "scOrder": 2
+                        }
+                    ],
+                    "jdSerPlusTitle": "京东服务+",
+                    "type": "2"
+                },
+                "yuyueInfo": {
+                    "isYuYue": false,
+                    "isbuyTime": false,
+                    "mad": false,
+                    "plusType": 0,
+                    "showDraw": false,
+                    "yuYue": false,
+                    "yuyueNum": 0
+                },
+                "isOpenNode": true,
+                "rankName": "入选2月『游戏本金榜』TOP20",
+                "property": {
+                    "isJzfp": false,
+                    "newReceiveCoupon": true,
+                    "suitABTest": 1,
+                    "buyMaxNum": 200,
+                    "isJnbtNewText": false,
+                    "plus20Flag": false,
+                    "isOverseaPurchase": "0",
+                    "easyBuy": false,
+                    "isFxyl": false,
+                    "isRegisterUser": false,
+                    "reasonTips": "所选地区暂时无货，非常抱歉！",
+                    "isFlimPrint": "",
+                    "isShowShopNameB": false,
+                    "dpgRevisionFlag": true,
+                    "fromType": 0,
+                    "showEmptyPrice": false,
+                    "threeSuperFlag": false,
+                    "noStockOrder": false,
+                    "virtualCardUrl": "https://gamerecg.m.jd.com?skuId=100022003044&chargeType=1105&skuName=联想笔记本电脑拯救者Y7000 英特尔酷睿i5 15.6英寸性能电竞游戏本(11代i5-11400H 16G 512G RTX3050 高色域)&skuPrice=5999.00",
+                    "isfans": true,
+                    "batchReceiveCoupon": true,
+                    "addAndSubToast": {
+                        "lowestToastText": "最少购买1件哦！"
+                    },
+                    "isEasyBuyPrice": true,
+                    "isRx": false,
+                    "sdkDegrade": false,
+                    "stockNotice": true,
+                    "opForIos": true,
+                    "isCollect": false,
+                    "recTabEnable": true,
+                    "isJx": false,
+                    "secKillFlag": true,
+                    "isOTC": "0",
+                    "exDegrade": true,
+                    "cartFlag": false,
+                    "wareImageTest": "",
+                    "brandId": "11516",
+                    "isOP": false,
+                    "isPop": false,
+                    "androidImageSwitch": true,
+                    "shareUrl": "https://item.m.jd.com/product/100022003044.html",
+                    "chatUrl": "https://m.360buyimg.com/n3/jfs/t1/132541/20/24535/280608/620c910dE08909f37/c8a46c8ebc639fa2.jpg.webp",
+                    "evaluateTabEnable": true,
+                    "category": "670;671;1105",
+                    "isRegularPrice": true,
+                    "isEncrypt": true
+                },
+                "leVieuxFusil": false,
+                "newStyle": false,
+                "miaoshaInfo": {
+                    "icon": "detail_026",
+                    "miaosha": true,
+                    "miaoshaRemainTime": "47973",
+                    "seckillType": "3",
+                    "state": 2,
+                    "title": "京东秒杀"
+                },
+                "yanBaoInfo": {
+                    "yanBaoUrl": "https://baozhang.jd.com/static/serviceDesc",
+                    "yanBaoTitle": "京东保障服务",
+                    "yanBaoDetailUrl": "https://b.jr.jd.com/service/serveIntroduce/#/introduce3?mainSkuId=100022003044&brandId=11516&thirdCategoryId=1105&bindSkuId=",
+                    "yanBaoList": [
+                        {
+                            "categoryCode": "",
+                            "expendOn": true,
+                            "imgurl": "https://img30.360buyimg.com/fuwu/jfs/t5431/52/1153921527/1119/b6e6fbf5/590c0c85N460e4552.png",
+                            "productId": 100022003044,
+                            "products": [
+                                {
+                                    "discount": "爆款↓限时5折",
+                                    "platformPid": 10039033950184,
+                                    "price": "159.00",
+                                    "sortName": "2年全保修",
+                                    "tip": "性能故障+意外 维修不限次"
+                                },
+                                {
+                                    "discount": "爆款↓限时5折",
+                                    "platformPid": 10023354692590,
+                                    "price": "319.00",
+                                    "sortName": "4年全保修",
+                                    "tip": "三包+摔碰挤压意外故障 全保修"
+                                },
+                                {
+                                    "discount": "意外故障也保修",
+                                    "platformPid": 10037869590481,
+                                    "price": "339.00",
+                                    "sortName": "3年全保修",
+                                    "tip": "三包+摔碰挤压意外故障全保修"
+                                },
+                                {
+                                    "discount": "↓年终力荐",
+                                    "platformPid": 10040217099196,
+                                    "price": "329.00",
+                                    "sortName": "3年修换随心",
+                                    "tip": "三包故障免费修 还可1折换新"
+                                },
+                                {
+                                    "discount": "赠防蓝光眼镜",
+                                    "platformPid": 29013982100,
+                                    "price": "439.00",
+                                    "sortName": "5年全保修",
+                                    "tip": "活动赠防蓝光眼镜，故障全保修"
+                                },
+                                {
+                                    "discount": "赠清灰服务5次",
+                                    "platformPid": 10027944129953,
+                                    "price": "479.00",
+                                    "sortName": "5年全保修",
+                                    "tip": "活动赠清灰服务5次，故障全保修"
+                                }
+                            ],
+                            "sortName": "全面保障"
+                        },
+                        {
+                            "categoryCode": "",
+                            "expendOn": true,
+                            "imgurl": "https://img30.360buyimg.com/fuwu/jfs/t2104/251/1133793532/1074/f4dd7f21/567caff5Nc4185618.png",
+                            "productId": 100022003044,
+                            "products": [
+                                {
+                                    "discount": "鼠标单独配送",
+                                    "platformPid": 60466158086,
+                                    "price": "59.00",
+                                    "sortName": "服务赠鼠标",
+                                    "tip": "新机开荒软件帮助 赠无线鼠标"
+                                },
+                                {
+                                    "discount": "三包+意外换新",
+                                    "platformPid": 10041913520056,
+                                    "price": "139.00",
+                                    "sortName": "1年全保换新",
+                                    "tip": "三包故障&意外换新机+免运费"
+                                },
+                                {
+                                    "discount": "爆款↓限时5折",
+                                    "platformPid": 10041897722812,
+                                    "price": "139.00",
+                                    "sortName": "2年意外保修",
+                                    "tip": "意外故障免费修 不限次"
+                                },
+                                {
+                                    "discount": "促销爆款",
+                                    "platformPid": 10039041335731,
+                                    "price": "119.00",
+                                    "sortName": "3年整机保修",
+                                    "tip": "三包性能故障免费保修不限次"
+                                },
+                                {
+                                    "discount": "高性价比",
+                                    "platformPid": 10024578653361,
+                                    "price": "149.00",
+                                    "sortName": "4年整机保修",
+                                    "tip": "三包性能故障免费保修不限次"
+                                },
+                                {
+                                    "platformPid": 10024579159772,
+                                    "price": "259.00",
+                                    "sortName": "6年整机保修",
+                                    "tip": "三包性能故障免费保修不限次"
+                                }
+                            ],
+                            "sortName": "促销特惠"
+                        },
+                        {
+                            "categoryCode": "",
+                            "expendOn": true,
+                            "imgurl": "https://img30.360buyimg.com/fuwu/jfs/t28252/227/383435796/764/9580f88a/5bfb8b78Nf3e023d2.jpg",
+                            "productId": 100022003044,
+                            "products": [
+                                {
+                                    "discount": "促销↓碎屏无忧",
+                                    "platformPid": 10040254576856,
+                                    "price": "69.00",
+                                    "sortName": "1年碎屏保",
+                                    "tip": "意外碎屏免费换屏一次"
+                                },
+                                {
+                                    "discount": "赠数据恢复",
+                                    "platformPid": 66137727357,
+                                    "price": "259.00",
+                                    "sortName": "主板硬盘保",
+                                    "tip": "5年内主板及硬盘故障免费维修"
+                                },
+                                {
+                                    "discount": "赠数据恢复",
+                                    "platformPid": 42358057146,
+                                    "price": "89.00",
+                                    "sortName": "硬盘保4年",
+                                    "tip": "性能故障免费维修赠远程数据恢复"
+                                }
+                            ],
+                            "sortName": "部件换新"
+                        }
+                    ]
+                },
+                "priceLabel": "¥",
+                "abTestInfo": {
+                    "addCarRecommendAB": false,
+                    "addrUpAB": true,
+                    "askMedicineInfoAb": false,
+                    "attentionAB": "A",
+                    "changeButtonIsRed": true,
+                    "collectABInfo": {
+                        "bottom3ABTest": true,
+                        "bottom4ABTest": true,
+                        "titleABTest": true
+                    },
+                    "darkModel": false,
+                    "easyDelAB": true,
+                    "evaluateAB": false,
+                    "feedBackAB": true,
+                    "hasChangeButton": true,
+                    "hospitalAB": "A",
+                    "hwShare": true,
+                    "magicHeadPicFlag": 0,
+                    "newUser": false,
+                    "newuserFreeAb": false,
+                    "noBotmShop": false,
+                    "openDarkModel": false,
+                    "packABTest": 1,
+                    "qaUpAb": false,
+                    "rankYhTag": true,
+                    "recommendPopup": false,
+                    "recommendYhTag": true,
+                    "selectedPopUpAb": false,
+                    "shareM": "a",
+                    "shareShield": false,
+                    "shopABTest": "a",
+                    "shopCardTypeAb": true,
+                    "shopExtendsAb": true,
+                    "shopIntensifyAB": false,
+                    "shopPromotionAB": "B",
+                    "show3cService": true,
+                    "showBuyLayer": true,
+                    "skuSource": 1,
+                    "specialSelectAB": true,
+                    "toABTest": true
+                },
+                "shopInfo": {
+                    "shopTag": {
+                        "priority": 1,
+                        "shopMark": "zy",
+                        "tagIcon": "tab_054"
+                    },
+                    "shop": {
+                        "avgEfficiencyScore": 0.0,
+                        "avgServiceScore": 0.0,
+                        "avgWareScore": 0.0,
+                        "bigAtmosphere": false,
+                        "brief": "主营笔记本，台式机，你想要的应有尽有",
+                        "cardType": 3,
+                        "cateGoodShop": 0,
+                        "diamond": false,
+                        "efficiencyScore": 0.0,
+                        "followCount": 22636846,
+                        "followText": "关注人数",
+                        "giftIcon": "",
+                        "globalGoodShop": 0,
+                        "goodShop": 0,
+                        "hasCoupon": false,
+                        "hotcates": [
+                            {
+                                "cardId": "-100",
+                                "cid": 16782422,
+                                "cname": "显示器",
+                                "commendSkuId": 100024912364,
+                                "imgPath": "https://m.360buyimg.com/n1/jfs/t1/100498/9/23175/111035/620cd79aE3c1d1b29/45cce16c321fedaf.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "cid": 16782419,
+                                "cname": "笔记本电脑",
+                                "commendSkuId": 100014794825,
+                                "imgPath": "https://m.360buyimg.com/n1/jfs/t1/122201/10/23318/316889/620c95b2E7754e6c2/30c4eefc151798fb.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "cid": 16782420,
+                                "cname": "台式机电脑",
+                                "commendSkuId": 100031259076,
+                                "imgPath": "https://m.360buyimg.com/n1/jfs/t1/211334/19/17474/285448/620e1f0eE85189030/f350e15906dc0100.jpg"
+                            },
+                            {
+                                "cardId": "-100",
+                                "cid": 18780606,
+                                "cname": "智能家居",
+                                "commendSkuId": 100013832965,
+                                "imgPath": "https://m.360buyimg.com/n1/jfs/t1/92789/3/21532/393985/620e0291Eaea746c9/ac30ac56bfc86cc8.jpg"
+                            }
+                        ],
+                        "isSquareLogo": true,
+                        "logisticsText": "物流",
+                        "logo": "https://img13.360buyimg.com/cms/jfs/t1/15326/1/1908/10840/5c172351E89f38cfb/95f5cd4466be621e.jpg",
+                        "name": "联想京东自营旗舰店",
+                        "nameB": "联想京东自营旗舰店",
+                        "newNum": 0,
+                        "promotionNum": 0,
+                        "promotions": [
+                            {
+                                "name": "限时秒杀",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"secKill\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"shopName\":\"联想京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/cms/jfs/t1/15326/1/1908/10840/5c172351E89f38cfb/95f5cd4466be621e.jpg\",\"signboardUrl\":\"https://img10.360buyimg.com/cms/jfs/t1/85431/26/22552/155321/6200e142Eab8a08e9/749d5bf685322f2f.jpg\",\"activityTabInfo\":{},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "满29减6元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"shopName\":\"联想京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/cms/jfs/t1/15326/1/1908/10840/5c172351E89f38cfb/95f5cd4466be621e.jpg\",\"signboardUrl\":\"https://img10.360buyimg.com/cms/jfs/t1/85431/26/22552/155321/6200e142Eab8a08e9/749d5bf685322f2f.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200238756573\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "满29减5元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"shopName\":\"联想京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/cms/jfs/t1/15326/1/1908/10840/5c172351E89f38cfb/95f5cd4466be621e.jpg\",\"signboardUrl\":\"https://img10.360buyimg.com/cms/jfs/t1/85431/26/22552/155321/6200e142Eab8a08e9/749d5bf685322f2f.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200238753569\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            },
+                            {
+                                "name": "满39减10元",
+                                "url": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"jumpTab\":\"activity\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"shopName\":\"联想京东自营旗舰店\",\"logoUrl\":\"https://img13.360buyimg.com/cms/jfs/t1/15326/1/1908/10840/5c172351E89f38cfb/95f5cd4466be621e.jpg\",\"signboardUrl\":\"https://img10.360buyimg.com/cms/jfs/t1/85431/26/22552/155321/6200e142Eab8a08e9/749d5bf685322f2f.jpg\",\"activityTabInfo\":{\"promotionTitleId\":\"200224580442\"},\"source\":{\"moduleId\":\"app-productDetail\",\"entrance\":\"商详卡片\"}}"
+                            }
+                        ],
+                        "score": 0.0,
+                        "serverText": "服务",
+                        "serviceScore": 0.0,
+                        "shopActivityTotalNum": 0,
+                        "shopId": 1000000157,
+                        "shopImage": "https://img11.360buyimg.com/cms/jfs/t1/175172/35/25417/460720/61cd5629E2be76a1e/4e186e6ca515d125.jpg",
+                        "shopStateText": "店铺动态",
+                        "showSignboardUrl": true,
+                        "signboardUrl": "https://img10.360buyimg.com/cms/jfs/t1/85431/26/22552/155321/6200e142Eab8a08e9/749d5bf685322f2f.jpg",
+                        "skuCntText": "全部商品",
+                        "skuText": "商品",
+                        "source": 0,
+                        "squareLogo": "https://img13.360buyimg.com/cms/jfs/t1/112555/40/8269/35265/5eccde31E740602fa/b03c8e74d483c402.gif",
+                        "telephone": "",
+                        "totalNum": 934,
+                        "venderType": "1",
+                        "wareScore": 0.0
+                    },
+                    "customerService": {
+                        "hasChat": true,
+                        "hasJimi": false,
+                        "allGoodJumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"jumpTab\":\"allProduct\"}",
+                        "mLink": "https://m.jd.com/product/100022003044.html",
+                        "online": true,
+                        "inShopLookJumpUrl": "openApp.jdMobile://virtual?params={\"category\":\"jump\",\"des\":\"jshopMain\",\"shopId\":\"1000000157\",\"venderId\":\"1000000157\",\"jumpTab\":\"home\"}",
+                        "chatInfo": {
+                            "allGoodIcon": "detail_030",
+                            "allGoodText": "精选商品",
+                            "bottomIcon": "detail_044",
+                            "bottomText": "客服",
+                            "isBubble": false,
+                            "isBubbleHV": false,
+                            "shopIcon": "detail_044",
+                            "shopText": "联系客服"
+                        }
+                    }
+                },
+                "plusArgs": "H4sIAAAAAAAAAFWQ0W7CMAxF/8XP1ZR0dKh9hGkSiGlIbB8QUpdmsKSKk00V6r/PCTCNPMUnN9fXPsM+krFI9D4OCA1IKGA4RXoxVp223miGZ9grMpSri0xeRHW1QIudCdCIqQA6xoUiXNnOpU+d0sH5cdebgd8L6IynsFQBD0xXLTRPc6aGlsp+ED47e8iyG1ibP7Bx+np7+0ZPqLbR655bZfrZXnNCVdf1gxA8AqF2tr1vxqGpd0MqpMhHVvOc+obKUohHMZtl+Kr8kT2TW+iNvzOTUlRp4JECfiUAP8ojKyOh/7+DtKVdUCESa0ohYZp+AWsEHeNzAQAA",
+                "isDesCbc": true,
+                "isNewPP": true,
+                "isOpen": true,
+                "jumpToProduct": false,
+                "jdwlType": 0,
+                "liveInfo": {
+                    "openapp": "openapp.jdmobile://virtual?params={\"category\":\"jump\",\"sourceValue\":\"sourceValue_test\",\"sourceType\":\"sourceType_test\",\"des\":\"LivePlayerRoom\",\"id\":\"7471609\",\"isNeedVideo\":true,\"sku\":\"100022003044\",\"liveOrigin\":\"20\"}",
+                    "livePic": "https://img30.360buyimg.com/livecms/jfs/t1/170077/32/13311/19430/6052eefdE8b34a6dc/293e5eb8d909c8f4.gif",
+                    "liveType": "1",
+                    "indexImage": "https://m.360buyimg.com/livecms/jfs/t1/104819/40/20118/584169/61d3b710E69094cfb/d9ebe5ce8a364c58.png",
+                    "screen": "0",
+                    "isCloseDetailLive": false,
+                    "title": "直播中",
+                    "h5pullUrl": "https://jdpull.jd.com/live/A2643CEC89772E54887CB03D30001BEF_fhd.m3u8",
+                    "liveId": "7471609"
+                },
+                "eventParam": {
+                    "sep": "{\"area\":\"15_1213_3038_0\",\"sku\":[[\"100022003044\",\"5999.00\",\"无货\",\"34\",\"0\"]]}"
+                },
+                "rankType": 13,
+                "webCast": {
+                    "bottomPicFlag": 1,
+                    "ejectText": "官方直播中，点击观看",
+                    "iconUrl": "https://m.360buyimg.com/mobilecal/jfs/t1/111482/9/15141/13251/5f3a285dEd0c9e981/bfe085c8766ca0d9.gif",
+                    "liveStatus": "1",
+                    "popupIcon": "https://m.360buyimg.com/cc/jfs/t1/74551/6/13853/1603/5db2c816E31a432b3/6871e8c02b3bb21f.png",
+                    "shopFloorText1": "直播中",
+                    "shopIcon": "https://m.360buyimg.com/cc/jfs/t1/93246/32/717/3522/5db2c7e2Eb494766c/cde4700a1343c30e.png",
+                    "skuShowtime": "7",
+                    "styleType": "1",
+                    "text": "开年新福利，商超好物钜惠",
+                    "url": "openapp.jdmobile://virtual?params={\"liveOrigin\":\"20\",\"des\":\"LivePlayerRoom\",\"sourceType\":\"sourceValue_test\",\"needLogin\":\"0\",\"id\":\"7463034\",\"sourceValue\":\"sourceValue_test\",\"category\":\"jump\"}"
+                },
+                "priceInfo": {
+                    "saveMoney": "省4100元",
+                    "originPrice": "10099.0",
+                    "rangePriceFlag": false,
+                    "jprice": "5999.00"
+                },
+                "showAttentionButton": true,
+                "tenthRevision": false,
+                "attentionInfo": {
+                    "txt2": "已收藏",
+                    "txt1": "7.8万"
+                },
+                "buttonInfo": {
+                    "main": {
+                        "bgColor": "#FFA600,#FFB000,#FFBC00;#E59500,#E59B00,#E6A800;#bfbfbf,#bfbfbf,#bfbfbf",
+                        "name": "立即购买",
+                        "source": 0,
+                        "textColor": "#ffffffff",
+                        "type": 1
+                    },
+                    "second": {
+                        "bgColor": "#F10000,#FF2000,#FF4F18;#D80000,#E51C00,#E54615;#bfbfbf,#bfbfbf,#bfbfbf",
+                        "name": "加入购物车",
+                        "source": 0,
+                        "textColor": "#ffffffff",
+                        "type": 0
+                    }
+                },
+                "bottomButtonInfo": {
+                    "leftButtonInfo": {
+                        "buttonBusiness": "businessCommonGoods",
+                        "buttonDisableColor": "#bfbfbf,#bfbfbf,#bfbfbf",
+                        "buttonEnable": true,
+                        "buttonEvent": 12,
+                        "buttonHightColor": "#D80000,#E51C00,#E54615",
+                        "buttonNeedLogin": true,
+                        "buttonNormalColor": "#F10000,#FF2000,#FF4F18",
+                        "buttonPriority": 240,
+                        "buttonText": "到货通知",
+                        "buttonTextColor": "#FFFFFF"
+                    }
+                },
+                "pointInfo": {
+                    "isShowAr": false,
+                    "isOPType": 0
+                },
+                "giftShopping": {
+                    "buttons": [
+                        {
+                            "xiaoITips": "分享给TA，先送后付",
+                            "buttonText": "分享送礼",
+                            "buttonJumpType": "1",
+                            "xcxId": "gh_279e710a5149",
+                            "buttonColor": "#FFA700,#FFB100,#FFBC00",
+                            "xiaoI": "https://m.360buyimg.com/cc/jfs/t1/97051/5/9447/1374/5e0f0587Ec1d3ec09/984bdf65d6cce9e4.png",
+                            "buttonJumpUrl": "https://123",
+                            "buttonChannelType": "2",
+                            "xcxType": "0"
+                        },
+                        {
+                            "xiaoITips": "直接支付，先付后送",
+                            "buttonText": "购买送礼",
+                            "buttonJumpType": "2",
+                            "xcxId": "gh_279e710a5149",
+                            "buttonColor": "#F2140C,#F2270C,#F24D0C",
+                            "xiaoI": "https://m.360buyimg.com/cc/jfs/t1/97051/5/9447/1374/5e0f0587Ec1d3ec09/984bdf65d6cce9e4.png",
+                            "buttonJumpUrl": "https://123",
+                            "buttonChannelType": "1",
+                            "xcxType": "0"
+                        }
+                    ],
+                    "shoppingPic": "https://m.360buyimg.com/cc/jfs/t1/119260/10/1067/37167/5e93d85eE244af2ce/d2e5dc20285d0052.png",
+                    "backgroudImg": "https://m.360buyimg.com/cc/jfs/t1/101711/14/10539/848874/5e1d65b1Ed621354a/d1da047581c9f586.png",
+                    "topEntrance": {
+                        "giftTopAlpha": "0.5",
+                        "giftTopText": "礼物送给TA",
+                        "giftTopBgColor": "#FFF1EF,#FFF1EF",
+                        "giftEntranceType": "1",
+                        "giftTopIconPic": "https://m.360buyimg.com/cc/jfs/t1/160201/33/6244/5307/601caaa1E429693af/65cb92c8969dd4e2.png",
+                        "giftTopArrow": "https://m.360buyimg.com/cc/jfs/t1/110940/20/6231/696/5eb909fcE1c378cf6/40b1178c6e885dba.png",
+                        "giftTopTextColor": "#F2270C"
+                    },
+                    "secretGiftTitle": "神秘礼物",
+                    "secretGiftText": "分享给收礼人时商品信息保密",
+                    "shareBgList": [
+                        {
+                            "bgColor": "#f22959",
+                            "name": "心愿好礼",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/203733/19/18746/66610/61bb12b6Ed7869812/05536d5a8848b615.jpg",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/166255/1/22496/22162/61b9e1a0E324d02f4/653df10c346cb77d.jpg"
+                        },
+                        {
+                            "bgColor": "#ff4a7a",
+                            "name": "用心好礼",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/158755/8/8829/445191/6038e0abE6603b6c1/cfb7b615d6275de2.jpg",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/156587/2/11396/15361/6038e08aE720a6aa6/58aad40cfc1321b9.jpg"
+                        },
+                        {
+                            "bgColor": "#fa8e8e",
+                            "name": "浪漫好礼",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/166830/33/5594/126160/601b9b9bE28706085/99620e0a66e2f6fb.jpg",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/164718/13/5420/22587/601b9b42Ef6bd95b0/5a50ce79d8f9d631.jpg"
+                        },
+                        {
+                            "bgColor": "#FF340E",
+                            "name": "暖心家书",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/154157/12/14540/203022/600640c3E7b315b11/d7a9d7326e84c9f0.png",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/153910/40/15117/28778/600640dfE150a149d/2694ea2539e82eef.png"
+                        },
+                        {
+                            "bgColor": "#bb1019",
+                            "name": "甄选年货",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/165163/32/1839/82163/5ffc24a8Ecc3b2122/8ebc1960989a224c.jpg",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/151276/26/15035/17175/5ffc248bE247ec5e4/e668d8bc7fc969f0.jpg"
+                        },
+                        {
+                            "bgColor": "#d83737",
+                            "name": "跨年盛典",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/139411/6/19479/118231/5fe07623E6543f6d5/49c6e099f1345e65.jpg",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/136021/17/20296/10140/5fdafd06Eb9a65077/b0bf873715510a6e.jpg"
+                        },
+                        {
+                            "bgColor": "#FFB84D",
+                            "name": "礼在京东",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/125419/4/3868/224534/5ed7411aE1af186b2/c618f18bd4df4467.png",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/112473/36/9246/15130/5ed7422eE17675cbe/834a85f52b928144.png"
+                        },
+                        {
+                            "bgColor": "#fad19b",
+                            "name": "感恩有你",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/123369/2/5234/850015/5eec9beaE917c1eba/3c4bc9411d830ce7.png",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/139959/17/1048/25025/5eec9c1cE720a08e5/28e14864050a3e32.png"
+                        },
+                        {
+                            "bgColor": "#feceaa",
+                            "name": "生日快乐",
+                            "bigPic": "https://m.360buyimg.com/cc/jfs/t1/141641/37/378/540559/5ee0afbcE16ab03d3/aba4c0a8b336dd6c.png",
+                            "smallPic": "https://m.360buyimg.com/cc/jfs/t1/118398/2/9647/23355/5ee0b00fE309a3d43/64ed43bff0d7bd4f.png"
+                        },
+                        {
+                            "bgColor": "#cae4f5",
+                            "name": "佳节品蟹",
+                            "bigPic": "https://i.loli.net/2020/09/27/NqSbEpBVgP8QmAh.png",
+                            "smallPic": "https://i.loli.net/2020/09/27/v1OKsidPnfLlBWj.png"
+                        }
+                    ],
+                    "trickContent": {
+                        "outside": {
+                            "buttonText": "查看详情",
+                            "img": "https://m.360buyimg.com/cc/jfs/t1/121903/28/2629/24897/5ec739d7Ef90f049a/6469f5c33563095d.png",
+                            "titleImg": "https://m.360buyimg.com/cc/jfs/t1/114716/4/7811/15929/5ec73b8fE80fa1385/90f2839356438a3a.png",
+                            "content": [
+                                {
+                                    "icon": "https://m.360buyimg.com/cc/jfs/t1/116430/17/7873/4198/5ec741f1E86186559/6e29f4e5569253e3.png",
+                                    "text": "1.选好宝贝，填好贺卡"
+                                },
+                                {
+                                    "icon": "https://m.360buyimg.com/cc/jfs/t1/125627/38/2596/3959/5ec7421bE2f9593df/0974501c97bc309d.png",
+                                    "text": "2.礼物打包，满满爱意"
+                                },
+                                {
+                                    "icon": "https://m.360buyimg.com/cc/jfs/t1/123103/28/2600/3335/5ec742b5E0d37aea4/57372698fe91cdff.png",
+                                    "text": "3.送上祝福（录制视频）"
+                                },
+                                {
+                                    "icon": "https://m.360buyimg.com/cc/jfs/t1/120410/36/2658/3546/5ec73ffaE52c40911/9a638d17df242f0d.png",
+                                    "text": "4.分享给TA"
+                                }
+                            ]
+                        },
+                        "inside": [
+                            {
+                                "titleImg": "https://m.360buyimg.com/cc/jfs/t1/110852/29/10489/26338/5ec7483bEfefef724/a7a6684958641bb3.png",
+                                "content": [
+                                    {
+                                        "icon": "https://m.360buyimg.com/cc/jfs/t1/116430/17/7873/4198/5ec741f1E86186559/6e29f4e5569253e3.png",
+                                        "text": "1.选好宝贝，填好贺卡"
+                                    },
+                                    {
+                                        "icon": "https://m.360buyimg.com/cc/jfs/t1/107175/27/18911/4624/5ec74739Ee7da168c/445ff051df880080.png",
+                                        "text": "2.填写好友地址，完成支付"
+                                    },
+                                    {
+                                        "icon": "https://m.360buyimg.com/cc/jfs/t1/125627/38/2596/3959/5ec7421bE2f9593df/0974501c97bc309d.png",
+                                        "text": "3.打包好礼物"
+                                    },
+                                    {
+                                        "icon": "https://m.360buyimg.com/cc/jfs/t1/123103/28/2600/3335/5ec742b5E0d37aea4/57372698fe91cdff.png",
+                                        "text": "4.捎上祝福（录制视频）"
+                                    },
+                                    {
+                                        "icon": "https://m.360buyimg.com/cc/jfs/t1/120410/36/2658/3546/5ec73ffaE52c40911/9a638d17df242f0d.png",
+                                        "text": "5.分享给好友"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "shoppingText": "购买送礼流程",
+                    "selectEntrance": {
+                        "giftSelectArrow": "https://m.360buyimg.com/cc/jfs/t1/110940/20/6231/696/5eb909fcE1c378cf6/40b1178c6e885dba.png",
+                        "giftSelectBgColor": "#FFDBD7,#FFE5E2",
+                        "giftEntranceType": "1",
+                        "giftSelectText": "礼物送给TA",
+                        "giftSelectTextColor": "#F2270C",
+                        "giftSelectIcon": "https://m.360buyimg.com/cc/jfs/t1/155344/4/11371/1233/5fe407c2E6b61e689/6fcac59ce6824a80.png"
+                    }
+                },
+                "wareImage": [
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/132541/20/24535/280608/620c910dE08909f37/c8a46c8ebc639fa2.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/132541/20/24535/280608/620c910dE08909f37/c8a46c8ebc639fa2.jpg!q70.dpg.webp",
+                        "share": "https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/132541/20/24535/280608/620c910dE08909f37/c8a46c8ebc639fa2.jpg!q70.jpg"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/189464/18/12023/218372/60e2bd92E10303df8/4961f82adc32af64.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/189464/18/12023/218372/60e2bd92E10303df8/4961f82adc32af64.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/199888/13/15127/229173/617b7c79Eafca7f05/e5bdb3966fc3f2d4.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/199888/13/15127/229173/617b7c79Eafca7f05/e5bdb3966fc3f2d4.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/219789/35/1130/248497/616fc064E6dfc4e93/dd43ceed25bf6066.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/219789/35/1130/248497/616fc064E6dfc4e93/dd43ceed25bf6066.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/202151/24/12075/197540/616fc063E7e9a7a40/48e13b36f28b7672.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/202151/24/12075/197540/616fc063E7e9a7a40/48e13b36f28b7672.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/219438/13/1149/155634/616fc063E77d67122/4afb96a611ed6a35.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/219438/13/1149/155634/616fc063E77d67122/4afb96a611ed6a35.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/217699/39/1206/282937/616fc064E33fdd0d1/50fbfd16e03327e8.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/217699/39/1206/282937/616fc064E33fdd0d1/50fbfd16e03327e8.jpg!q70.dpg.webp"
+                    },
+                    {
+                        "small": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/209126/5/6149/148612/616fc064Ee851a445/d11463bf27e5e4b5.jpg!q70.dpg.webp",
+                        "big": "https://m.360buyimg.com/mobilecms/s750x750_jfs/t1/209126/5/6149/148612/616fc064Ee851a445/d11463bf27e5e4b5.jpg!q70.dpg.webp"
+                    }
+                ],
+                "oldMoreStyle": false,
+                "wareInfo": {
+                    "name": "联想笔记本电脑拯救者Y7000 英特尔酷睿i5 15.6英寸性能电竞游戏本(11代i5-11400H 16G 512G RTX3050 高色域)",
+                    "venderId": "1000000157",
+                    "skuId": "100022003044"
+                },
+                "addFamilyList": {
+                    "showFamilyButton": true,
+                    "familyButtonName": "家庭清单",
+                    "hasAddFamilyList": false
+                },
+                "originalFactoryServiceInfo": {
+                    "serviceTitle": "原厂服务",
+                    "serviceList": [
+                        {
+                            "productType": 0,
+                            "products": [
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "不限次，可领券",
+                                    "itemIndex": 3011257,
+                                    "serviceSku": "100026376086",
+                                    "serviceSkuName": "联想两年全保",
+                                    "serviceSkuPrice": "199.00",
+                                    "tip": "联想原厂两年全保修和意外保障服"
+                                },
+                                {
+                                    "appendServiceSku": false,
+                                    "discount": "爆款！自营特惠",
+                                    "itemIndex": 3011317,
+                                    "serviceSku": "100012516057",
+                                    "serviceSkuName": "3年原厂保修",
+                                    "serviceSkuPrice": "219.00",
+                                    "tip": "联想官方，整机保修，原厂备件"
+                                }
+                            ],
+                            "scIconUrl": "https://img12.360buyimg.com/ling/jfs/t1/152564/37/17121/11836/601a7246E217513dd/703e6ac474c67d52.png",
+                            "scId": 58,
+                            "scIdStr": "58",
+                            "scName": "保障服务",
+                            "scOrder": 54
+                        }
+                    ],
+                    "type": "4",
+                    "url": "https://jstp-mpc.m.jd.com/#/serviceDetails?mainSku=100022003044"
+                },
+                "promotionInfo": {
+                    "isBargain": false,
+                    "prompt": "1;2"
+                },
+                "tabUrl": "https://in.m.jd.com/product/graphext_0_0_0_0_0/sequ/100022003044.html",
+                "isOpenH5": true,
+                "isScf": false,
+                "locCouponFlag": false,
+                "generalTrackDic": {
+                    "shopId": "1000000157",
+                    "skuId": "100022003044"
+                },
+                "hwShareInfo": {
+                    "agreement": "《共享购物助手用户协议》",
+                    "agreementHead": "阅读并同意",
+                    "agreementToast": {
+                        "title": "共享购物助手用户协议",
+                        "content": "1、共享购物助手仅对两方用户都为华为手机指定机型系统时才可使用。其他手机系统无法使用此功能。\n2、发起者通过手机通讯录邀请好友即可发起共享。屏幕共享仅共享发起者屏幕界面，为单向共享。\n3、屏幕共享时，发起者和接收用户都可进行涂鸦操作，但接收用户无法操作发起者手机。\n4、在您购物时可能会访问个人隐私页面，如下单支付页、个人资料等，请您操作手机时，提前关闭屏幕共享功能，避免产生财产损失或个人信息泄漏风险。"
+                    },
+                    "bgImg": "https://m.360buyimg.com/cc/jfs/t1/87433/9/14305/3942/5e61f36bEbd3d824e/803805e128d145c1.png",
+                    "btnText": "授权并继续",
+                    "content": [
+                        {
+                            "text": "为获取最佳的手机屏幕共享体验，请授权开通一下访问权限",
+                            "title": "管理权限"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/89131/38/14192/2778/5e61f3d7E850859b5/7fb0f0a3fda84a0b.png",
+                            "text": "同步您认识的朋友",
+                            "title": "手机通讯录"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/95040/6/14048/2666/5e61f3bbEfcb1b7c8/f83962066c09a37b.png",
+                            "text": "和朋友边逛边聊",
+                            "title": "麦克风"
+                        },
+                        {
+                            "icon": "https://m.360buyimg.com/cc/jfs/t1/95011/21/14187/1831/5e61f3a8Edf0b3de1/b2369787c683d65d.png",
+                            "text": "开始共享后您的手机屏幕将被对方看到，但对方无法操作您的手机。请在访问隐私页面（下单支付、个人资料等）时提前关闭共享功能，避免造成个人损失。"
+                        },
+                        {
+                            "text": "屏幕共享功能仅对两方用户都为华为手机时才可使用。发起者通过手机通讯录邀请好友即可发起共享。",
+                            "title": "使用介绍"
+                        }
+                    ],
+                    "disAgreeToast": "请先勾选“阅读并同意协议”",
+                    "image": [
+                        "http://m.360buyimg.com/cc/jfs/t1/102765/20/14157/94675/5e61f59bE4917f89f/3a327a6135c15137.png",
+                        "http://m.360buyimg.com/cc/jfs/t1/85216/14/14130/127510/5e61f5afE84efee9d/cecfbce5f3a8766b.png"
+                    ]
+                },
+                "ddFatigueMechanism": {
+                    "leftBottomBubbleCount": "5",
+                    "leftBottomBubbleDuration": "5",
+                    "ddBottomToastDuration": "10",
+                    "ddBottomToastCount": "5",
+                    "ddRightCount": "5"
+                },
+                "appointAndPresaleOpen": true,
+                "plusShieldLandedPriceFlag": false,
+                "shareImgInfo": {
+                    "priceDes": "价格具有时效性",
+                    "promotionStr": "",
+                    "markingOff": true,
+                    "shareLanguage": "推荐一个好物给你，请查收",
+                    "secondPrice": "10099.0",
+                    "jprice": "5999.00",
+                    "priceUrl": "https://m.360buyimg.com/cc/jfs/t1/16989/25/11991/6282/5c933b48Eb4fd488e/03e6606b4decb734.png"
+                }
+            },
+            "mId": "bpMasterdata",
+            "sortId": 199
+        }
+    ],
+    "others": {
+        "templateType": "secKill"
+    },
+    "wait": 0
+}
