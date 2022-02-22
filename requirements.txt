@@ -4,4 +4,5 @@ SQLAlchemy==1.4.9
 uiautomator2==2.16.13
 APScheduler==3.7.0
 DingtalkChatbot==1.5.3
+mitmproxy==7.0.4
 jsonpath
